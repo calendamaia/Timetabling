@@ -1,0 +1,16 @@
+=== Información del Escenario Original ===
+Información no disponible
+
+=== Ejecución de Algoritmos ===
+
+Métricas Algoritmo Genético:
+Número de estudiantes: 33
+Fitness:
+Tiempo de ejecución: N/A segundos
+Generaciones: N/A
+
+Métricas Harmony Search:
+Número de estudiantes: 33
+Fitness:
+Tiempo de ejecución: N/A segundos
+Generaciones: N/A

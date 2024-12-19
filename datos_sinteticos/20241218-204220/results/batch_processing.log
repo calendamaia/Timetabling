@@ -1,0 +1,9 @@
+2024-12-18 20:43:21 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241218-204220
+2024-12-18 20:43:21 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241218-204220\results
+2024-12-18 20:43:21 - INFO - Iniciando procesamiento con límites de tiempo:
+2024-12-18 20:43:21 - INFO - - 5 minutos si se encuentra solución válida
+2024-12-18 20:43:21 - INFO - - 15 minutos si no se encuentra solución
+2024-12-18 20:43:21 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-18 20:43:21 - INFO - Encontrados 100 archivos para procesar
+2024-12-18 20:43:21 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-18 20:43:21 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx

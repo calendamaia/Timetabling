@@ -1,0 +1,117 @@
+=== Información del Escenario Original ===
+Escenario 100:
+2024-12-17 23:51:01 - INFO - Estudiantes: 200
+2024-12-17 23:51:01 - INFO - Profesores: 60
+2024-12-17 23:51:01 - INFO - Edificios: 3
+2024-12-17 23:51:01 - INFO - Aulas por edificio: 5
+2024-12-17 23:51:01 - INFO - Slots por día: 16
+2024-12-17 23:51:01 - INFO - Total slots disponibles: 240
+2024-12-17 23:51:01 - INFO - Slots mínimos necesarios: 200
+2024-12-17 23:51:01 - INFO - Generado archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-17 23:51:01 - INFO - Generado archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-17 23:51:01 - INFO - Generado archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-17 23:51:01 - INFO - Generado archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-17 23:51:01 - INFO - Generado archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-17 23:51:02 - INFO - Generado archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-17 23:51:03 - INFO - Generado archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-17 23:51:04 - INFO - Generado archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-17 23:51:04 - INFO - Generado archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-17 23:51:04 - INFO - Generado archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-17 23:51:04 - INFO - Generado archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-17 23:51:04 - INFO - Generado archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-17 23:51:04 - INFO - Generado archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-17 23:51:05 - INFO - Generado archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-17 23:51:05 - INFO - Generado archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-17 23:51:05 - INFO - Generado archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-17 23:51:05 - INFO - Generado archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-17 23:51:05 - INFO - Generado archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-17 23:51:06 - INFO - Generado archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-17 23:51:06 - INFO - Generado archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-17 23:51:06 - INFO - Generado archivo 39/100: DatosGestionTribunales-039.xlsx
+2024-12-17 23:51:07 - INFO - Generado archivo 40/100: DatosGestionTribunales-040.xlsx
+2024-12-17 23:51:07 - INFO - Generado archivo 41/100: DatosGestionTribunales-041.xlsx
+2024-12-17 23:51:07 - INFO - Generado archivo 42/100: DatosGestionTribunales-042.xlsx
+2024-12-17 23:51:07 - INFO - Generado archivo 43/100: DatosGestionTribunales-043.xlsx
+2024-12-17 23:51:08 - INFO - Generado archivo 44/100: DatosGestionTribunales-044.xlsx
+2024-12-17 23:51:08 - INFO - Generado archivo 45/100: DatosGestionTribunales-045.xlsx
+2024-12-17 23:51:08 - INFO - Generado archivo 46/100: DatosGestionTribunales-046.xlsx
+2024-12-17 23:51:09 - INFO - Generado archivo 47/100: DatosGestionTribunales-047.xlsx
+2024-12-17 23:51:09 - INFO - Generado archivo 48/100: DatosGestionTribunales-048.xlsx
+2024-12-17 23:51:09 - INFO - Generado archivo 49/100: DatosGestionTribunales-049.xlsx
+2024-12-17 23:51:10 - INFO - Generado archivo 50/100: DatosGestionTribunales-050.xlsx
+2024-12-17 23:51:10 - INFO - Generado archivo 51/100: DatosGestionTribunales-051.xlsx
+2024-12-17 23:51:11 - INFO - Generado archivo 52/100: DatosGestionTribunales-052.xlsx
+2024-12-17 23:51:11 - INFO - Generado archivo 53/100: DatosGestionTribunales-053.xlsx
+2024-12-17 23:51:12 - INFO - Generado archivo 54/100: DatosGestionTribunales-054.xlsx
+2024-12-17 23:51:12 - INFO - Generado archivo 55/100: DatosGestionTribunales-055.xlsx
+2024-12-17 23:51:12 - INFO - Generado archivo 56/100: DatosGestionTribunales-056.xlsx
+2024-12-17 23:51:13 - INFO - Generado archivo 57/100: DatosGestionTribunales-057.xlsx
+2024-12-17 23:51:13 - INFO - Generado archivo 58/100: DatosGestionTribunales-058.xlsx
+2024-12-17 23:51:14 - INFO - Generado archivo 59/100: DatosGestionTribunales-059.xlsx
+2024-12-17 23:51:14 - INFO - Generado archivo 60/100: DatosGestionTribunales-060.xlsx
+2024-12-17 23:51:15 - INFO - Generado archivo 61/100: DatosGestionTribunales-061.xlsx
+2024-12-17 23:51:15 - INFO - Generado archivo 62/100: DatosGestionTribunales-062.xlsx
+2024-12-17 23:51:16 - INFO - Generado archivo 63/100: DatosGestionTribunales-063.xlsx
+2024-12-17 23:51:16 - INFO - Generado archivo 64/100: DatosGestionTribunales-064.xlsx
+2024-12-17 23:51:17 - INFO - Generado archivo 65/100: DatosGestionTribunales-065.xlsx
+2024-12-17 23:51:18 - INFO - Generado archivo 66/100: DatosGestionTribunales-066.xlsx
+2024-12-17 23:51:18 - INFO - Generado archivo 67/100: DatosGestionTribunales-067.xlsx
+2024-12-17 23:51:19 - INFO - Generado archivo 68/100: DatosGestionTribunales-068.xlsx
+2024-12-17 23:51:20 - INFO - Generado archivo 69/100: DatosGestionTribunales-069.xlsx
+2024-12-17 23:51:20 - INFO - Generado archivo 70/100: DatosGestionTribunales-070.xlsx
+2024-12-17 23:51:21 - INFO - Generado archivo 71/100: DatosGestionTribunales-071.xlsx
+2024-12-17 23:51:22 - INFO - Generado archivo 72/100: DatosGestionTribunales-072.xlsx
+2024-12-17 23:51:23 - INFO - Generado archivo 73/100: DatosGestionTribunales-073.xlsx
+2024-12-17 23:51:24 - INFO - Generado archivo 74/100: DatosGestionTribunales-074.xlsx
+2024-12-17 23:51:25 - INFO - Generado archivo 75/100: DatosGestionTribunales-075.xlsx
+2024-12-17 23:51:26 - INFO - Generado archivo 76/100: DatosGestionTribunales-076.xlsx
+2024-12-17 23:51:27 - INFO - Generado archivo 77/100: DatosGestionTribunales-077.xlsx
+2024-12-17 23:51:27 - INFO - Generado archivo 78/100: DatosGestionTribunales-078.xlsx
+2024-12-17 23:51:28 - INFO - Generado archivo 79/100: DatosGestionTribunales-079.xlsx
+2024-12-17 23:51:29 - INFO - Generado archivo 80/100: DatosGestionTribunales-080.xlsx
+2024-12-17 23:51:30 - INFO - Generado archivo 81/100: DatosGestionTribunales-081.xlsx
+2024-12-17 23:51:30 - INFO - Generado archivo 82/100: DatosGestionTribunales-082.xlsx
+2024-12-17 23:51:31 - INFO - Generado archivo 83/100: DatosGestionTribunales-083.xlsx
+2024-12-17 23:51:32 - INFO - Generado archivo 84/100: DatosGestionTribunales-084.xlsx
+2024-12-17 23:51:33 - INFO - Generado archivo 85/100: DatosGestionTribunales-085.xlsx
+2024-12-17 23:51:33 - INFO - Generado archivo 86/100: DatosGestionTribunales-086.xlsx
+2024-12-17 23:51:34 - INFO - Generado archivo 87/100: DatosGestionTribunales-087.xlsx
+2024-12-17 23:51:35 - INFO - Generado archivo 88/100: DatosGestionTribunales-088.xlsx
+2024-12-17 23:51:36 - INFO - Generado archivo 89/100: DatosGestionTribunales-089.xlsx
+2024-12-17 23:51:37 - INFO - Generado archivo 90/100: DatosGestionTribunales-090.xlsx
+2024-12-17 23:51:37 - INFO - Generado archivo 91/100: DatosGestionTribunales-091.xlsx
+2024-12-17 23:51:38 - INFO - Generado archivo 92/100: DatosGestionTribunales-092.xlsx
+2024-12-17 23:51:39 - INFO - Generado archivo 93/100: DatosGestionTribunales-093.xlsx
+2024-12-17 23:51:40 - INFO - Generado archivo 94/100: DatosGestionTribunales-094.xlsx
+2024-12-17 23:51:41 - INFO - Generado archivo 95/100: DatosGestionTribunales-095.xlsx
+2024-12-17 23:51:42 - INFO - Generado archivo 96/100: DatosGestionTribunales-096.xlsx
+2024-12-17 23:51:43 - INFO - Generado archivo 97/100: DatosGestionTribunales-097.xlsx
+2024-12-17 23:51:44 - INFO - Generado archivo 98/100: DatosGestionTribunales-098.xlsx
+2024-12-17 23:51:45 - INFO - Generado archivo 99/100: DatosGestionTribunales-099.xlsx
+2024-12-17 23:51:46 - INFO - Generado archivo 100/100: DatosGestionTribunales-100.xlsx
+2024-12-17 23:51:46 - INFO - 
+Archivos generados en: datos_sinteticos\20241217-235100
+2024-12-17 23:51:46 - INFO - Total de archivos generados: 100
+
+Total slots disponibles: 240
+Slots mínimos necesarios: 200
+
+=== Ejecución de Algoritmos ===

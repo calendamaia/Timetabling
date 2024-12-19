@@ -1,0 +1,22 @@
+=== Información del Escenario Original ===
+Información no disponible
+
+=== Ejecución de Algoritmos ===
+
+Métricas Algoritmo Genético:
+Número de estudiantes: 19
+Fitness:
+  - Valor absoluto: 57.075000
+  - Valor normalizado [0-1]: 0.750987
+  - Mejor valor absoluto: 57.075000
+  - Mejor valor normalizado [0-1]: 0.750987
+  - Promedio absoluto: 51.905750
+  - Promedio normalizado [0-1]: 0.682970
+Tiempo de ejecución: 678.2660796642303 segundos
+Generaciones: 100
+
+Métricas Harmony Search:
+Número de estudiantes: 19
+Fitness:
+Tiempo de ejecución: N/A segundos
+Generaciones: N/A

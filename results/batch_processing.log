@@ -1,0 +1,9 @@
+2024-12-09 19:59:45 - INFO - Iniciando procesamiento en: D:\desa\tfm
+2024-12-09 19:59:45 - INFO - Resultados se guardarán en: D:\desa\tfm\results
+2024-12-09 19:59:45 - ERROR - Error en el procesamiento por lotes: [Errno 2] No such file or directory: 'log.txt'
+2024-12-09 19:59:56 - INFO - Iniciando procesamiento en: D:\desa\tfm
+2024-12-09 19:59:56 - INFO - Resultados se guardarán en: D:\desa\tfm\results
+2024-12-09 19:59:56 - ERROR - Error en el procesamiento por lotes: [Errno 2] No such file or directory: 'log.txt'
+2024-12-09 20:02:33 - INFO - Iniciando procesamiento en: D:\desa\tfm
+2024-12-09 20:02:33 - INFO - Resultados se guardarán en: D:\desa\tfm\results
+2024-12-09 20:02:33 - ERROR - Error en el procesamiento por lotes: No se encuentra log.txt en D:\desa\tfm

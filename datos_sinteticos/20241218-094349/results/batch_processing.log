@@ -1,0 +1,72 @@
+2024-12-18 09:49:26 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241218-094349
+2024-12-18 09:49:26 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241218-094349\results
+2024-12-18 09:49:26 - INFO - Iniciando procesamiento con límites de tiempo:
+2024-12-18 09:49:26 - INFO - - 5 minutos si se encuentra solución válida
+2024-12-18 09:49:26 - INFO - - 15 minutos si no se encuentra solución
+2024-12-18 09:49:26 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-18 09:49:26 - INFO - Encontrados 100 archivos para procesar
+2024-12-18 09:49:26 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-18 09:49:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-18 09:50:12 - INFO - Procesamiento completado para DatosGestionTribunales-001.xlsx
+2024-12-18 09:50:12 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-18 09:50:12 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-18 09:50:29 - INFO - Procesamiento completado para DatosGestionTribunales-002.xlsx
+2024-12-18 09:50:29 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-18 09:50:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-18 09:50:38 - INFO - Procesamiento completado para DatosGestionTribunales-003.xlsx
+2024-12-18 09:50:38 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-18 09:50:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-18 09:50:51 - INFO - Procesamiento completado para DatosGestionTribunales-004.xlsx
+2024-12-18 09:50:51 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-18 09:50:51 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-18 09:51:28 - INFO - Procesamiento completado para DatosGestionTribunales-005.xlsx
+2024-12-18 09:51:28 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-18 09:51:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-18 09:52:08 - INFO - Procesamiento completado para DatosGestionTribunales-006.xlsx
+2024-12-18 09:52:08 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-18 09:52:08 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-18 09:56:27 - INFO - Procesamiento completado para DatosGestionTribunales-007.xlsx
+2024-12-18 09:56:27 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-18 09:56:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-18 10:04:08 - INFO - Procesamiento completado para DatosGestionTribunales-008.xlsx
+2024-12-18 10:04:08 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-18 10:04:08 - INFO - Ejecutando algoritmos para DatosGestionTribunales-009.xlsx
+2024-12-18 10:07:23 - INFO - Procesamiento completado para DatosGestionTribunales-009.xlsx
+2024-12-18 10:07:23 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-18 10:07:23 - INFO - Ejecutando algoritmos para DatosGestionTribunales-010.xlsx
+2024-12-18 10:12:02 - INFO - Procesamiento completado para DatosGestionTribunales-010.xlsx
+2024-12-18 10:12:02 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-18 10:12:02 - INFO - Ejecutando algoritmos para DatosGestionTribunales-011.xlsx
+2024-12-18 10:18:02 - INFO - Procesamiento completado para DatosGestionTribunales-011.xlsx
+2024-12-18 10:18:02 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-18 10:18:02 - INFO - Ejecutando algoritmos para DatosGestionTribunales-012.xlsx
+2024-12-18 10:26:15 - INFO - Procesamiento completado para DatosGestionTribunales-012.xlsx
+2024-12-18 10:26:15 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-18 10:26:15 - INFO - Ejecutando algoritmos para DatosGestionTribunales-013.xlsx
+2024-12-18 10:40:37 - INFO - Procesamiento completado para DatosGestionTribunales-013.xlsx
+2024-12-18 10:40:37 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-18 10:40:37 - INFO - Ejecutando algoritmos para DatosGestionTribunales-014.xlsx
+2024-12-18 10:54:45 - INFO - Procesamiento completado para DatosGestionTribunales-014.xlsx
+2024-12-18 10:54:45 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-18 10:54:45 - INFO - Ejecutando algoritmos para DatosGestionTribunales-015.xlsx
+2024-12-18 10:55:26 - ERROR - Error ejecutando algoritmos: No se pudo generar una población inicial válida
+2024-12-18 10:55:26 - INFO - Procesamiento completado para DatosGestionTribunales-015.xlsx
+2024-12-18 10:55:26 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-18 10:55:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-016.xlsx
+2024-12-18 10:56:10 - ERROR - Error ejecutando algoritmos: No se pudo generar una población inicial válida
+2024-12-18 10:56:10 - INFO - Procesamiento completado para DatosGestionTribunales-016.xlsx
+2024-12-18 10:56:10 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-18 10:56:10 - INFO - Ejecutando algoritmos para DatosGestionTribunales-017.xlsx
+2024-12-18 12:58:50 - ERROR - Error ejecutando algoritmos: No se pudo generar una memoria inicial válida
+2024-12-18 12:58:50 - INFO - Procesamiento completado para DatosGestionTribunales-017.xlsx
+2024-12-18 12:58:50 - INFO - Procesando archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-18 12:58:50 - INFO - Ejecutando algoritmos para DatosGestionTribunales-018.xlsx
+2024-12-18 18:27:35 - INFO - Proceso detenido después de 31089.23 segundos: se ha alcanzado el límite de tiempo con solución válida (5 minutos)
+2024-12-18 18:27:35 - INFO - Procesamiento completado para DatosGestionTribunales-018.xlsx
+2024-12-18 18:27:35 - INFO - Proceso detenido después de 31089.27 segundos: se ha alcanzado el límite de tiempo con solución válida (5 minutos)
+2024-12-18 18:27:35 - INFO - 
+Procesamiento completado:
+2024-12-18 18:27:35 - INFO - Tiempo total de ejecución: 31089.27 segundos
+2024-12-18 18:27:35 - INFO - Total archivos: 100
+2024-12-18 18:27:35 - INFO - Procesados con éxito: 18
+2024-12-18 18:27:35 - INFO - Fallidos o no procesados: 82

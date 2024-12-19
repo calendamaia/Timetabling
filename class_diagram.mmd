@@ -1,0 +1,68 @@
+---
+    Format: Mermaid Chart. https://www.mermaidchart.com/
+    config:
+    layout: fixed
+---
+
+classDiagram
+    class TimetablingProblem {
+        -excel_data: Dict
+        -num_students: int
+        -num_timeslots: int
+        -num_professors: int
+        -tribunal_ids: List
+        -tribunal_index_to_id: Dict
+        -tribunal_id_to_index: Dict
+        -timeslot_ids: List
+        -timeslot_index_to_id: Dict
+        -timeslot_id_to_index: Dict
+        +__init__(excel_path: str)
+        +calculate_fitness(solution: TimeTableSolution): float
+        +check_feasibility(solution: TimeTableSolution): Tuple[bool, str]
+        +export_solution(solution: TimeTableSolution, excel_path: str)
+        +analyze_problem_constraints()
+    }
+
+    class TimeTableSolution {
+        -chromosome: np.ndarray
+        -fitness: float
+        +__init__(chromosome: np.ndarray, fitness: float)
+        +__eq__(other: TimeTableSolution): bool
+        +__hash__(): int
+    }
+
+    class TimetablingGA {
+        -population_size: int
+        -generations: int
+        -mutation_rate: float
+        -elite_size: int
+        +__init__(excel_path: str)
+        +generate_initial_population(): List[TimeTableSolution]
+        +crossover(parent1: TimeTableSolution, parent2: TimeTableSolution): TimeTableSolution
+        +mutate(solution: TimeTableSolution): TimeTableSolution
+        +solve(): Tuple[TimeTableSolution, List[float]]
+    }
+
+    class TimetablingHS {
+        -hms: int
+        -hmcr: float
+        -par: float
+        -max_iterations: int
+        -max_iterations_without_improvement: int
+        -min_par: float
+        -max_par: float
+        -min_hmcr: float
+        -max_hmcr: float
+        +__init__(excel_path: str)
+        -_get_ordered_students(): List[int]
+        -_assign_student(student: int, chromosome: np.ndarray, used_timeslots: Set[int]): bool
+        +generate_initial_harmony_memory(): List[TimeTableSolution]
+        -_generate_single_harmony(): Optional[TimeTableSolution]
+        +local_search(solution: TimeTableSolution): TimeTableSolution
+        +solve(): Tuple[TimeTableSolution, List[float]]
+        +improvise_new_harmony(harmony_memory: List[TimeTableSolution]): TimeTableSolution
+    }
+
+    TimetablingProblem ..> TimeTableSolution
+    TimetablingGA --|> TimetablingProblem
+    TimetablingHS --|> TimetablingProblem

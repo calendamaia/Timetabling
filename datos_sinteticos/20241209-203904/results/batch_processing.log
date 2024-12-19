@@ -1,0 +1,541 @@
+2024-12-09 20:56:16 - INFO - Iniciando procesamiento en: d:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 20:56:16 - INFO - Resultados se guardar�n en: d:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 20:56:16 - ERROR - Error en el procesamiento por lotes: 'utf-8' codec can't decode byte 0xf3 in position 47: invalid continuation byte
+2024-12-09 20:59:15 - INFO - Iniciando procesamiento en: d:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 20:59:15 - INFO - Resultados se guardarán en: d:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 20:59:15 - INFO - Archivo log.txt leído correctamente
+2024-12-09 20:59:15 - INFO - Encontrados 100 archivos para procesar
+2024-12-09 20:59:15 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-09 20:59:15 - ERROR - Error en el procesamiento por lotes: 'BatchProcessor' object has no attribute 'process_single_file'
+2024-12-09 21:01:59 - INFO - Iniciando procesamiento en: d:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 21:01:59 - INFO - Resultados se guardarán en: d:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 21:01:59 - INFO - Archivo log.txt leído correctamente
+2024-12-09 21:01:59 - INFO - Encontrados 100 archivos para procesar
+2024-12-09 21:01:59 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-001.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-002.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-003.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-004.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-005.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-006.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-007.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-008.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-009.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-010.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-011.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-012.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-013.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-014.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-015.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-016.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-017.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-018.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-019.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-020.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-021.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-022.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-023.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-024.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-025.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-026.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-027.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-028.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-029.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-030.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-031.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-032.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-033.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-034.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-035.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-036.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-037.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-038.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 39/100: DatosGestionTribunales-039.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-039.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 40/100: DatosGestionTribunales-040.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-040.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 41/100: DatosGestionTribunales-041.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-041.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 42/100: DatosGestionTribunales-042.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-042.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 43/100: DatosGestionTribunales-043.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-043.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 44/100: DatosGestionTribunales-044.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-044.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 45/100: DatosGestionTribunales-045.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-045.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 46/100: DatosGestionTribunales-046.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-046.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 47/100: DatosGestionTribunales-047.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-047.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 48/100: DatosGestionTribunales-048.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-048.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 49/100: DatosGestionTribunales-049.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-049.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 50/100: DatosGestionTribunales-050.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-050.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 51/100: DatosGestionTribunales-051.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-051.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 52/100: DatosGestionTribunales-052.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-052.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 53/100: DatosGestionTribunales-053.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-053.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 54/100: DatosGestionTribunales-054.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-054.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 55/100: DatosGestionTribunales-055.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-055.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 56/100: DatosGestionTribunales-056.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-056.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 57/100: DatosGestionTribunales-057.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-057.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 58/100: DatosGestionTribunales-058.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-058.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 59/100: DatosGestionTribunales-059.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-059.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 60/100: DatosGestionTribunales-060.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-060.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 61/100: DatosGestionTribunales-061.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-061.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 62/100: DatosGestionTribunales-062.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-062.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 63/100: DatosGestionTribunales-063.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-063.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 64/100: DatosGestionTribunales-064.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-064.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 65/100: DatosGestionTribunales-065.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-065.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 66/100: DatosGestionTribunales-066.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-066.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 67/100: DatosGestionTribunales-067.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-067.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 68/100: DatosGestionTribunales-068.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-068.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 69/100: DatosGestionTribunales-069.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-069.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 70/100: DatosGestionTribunales-070.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-070.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 71/100: DatosGestionTribunales-071.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-071.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 72/100: DatosGestionTribunales-072.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-072.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 73/100: DatosGestionTribunales-073.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-073.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 74/100: DatosGestionTribunales-074.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-074.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 75/100: DatosGestionTribunales-075.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-075.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 76/100: DatosGestionTribunales-076.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-076.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 77/100: DatosGestionTribunales-077.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-077.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 78/100: DatosGestionTribunales-078.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-078.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 79/100: DatosGestionTribunales-079.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-079.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 80/100: DatosGestionTribunales-080.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-080.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 81/100: DatosGestionTribunales-081.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-081.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 82/100: DatosGestionTribunales-082.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-082.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 83/100: DatosGestionTribunales-083.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-083.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 84/100: DatosGestionTribunales-084.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-084.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 85/100: DatosGestionTribunales-085.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-085.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 86/100: DatosGestionTribunales-086.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-086.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 87/100: DatosGestionTribunales-087.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-087.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 88/100: DatosGestionTribunales-088.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-088.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 89/100: DatosGestionTribunales-089.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-089.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 90/100: DatosGestionTribunales-090.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-090.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 91/100: DatosGestionTribunales-091.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-091.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 92/100: DatosGestionTribunales-092.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-092.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 93/100: DatosGestionTribunales-093.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-093.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 94/100: DatosGestionTribunales-094.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-094.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 95/100: DatosGestionTribunales-095.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-095.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 96/100: DatosGestionTribunales-096.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-096.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 97/100: DatosGestionTribunales-097.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-097.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 98/100: DatosGestionTribunales-098.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-098.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 99/100: DatosGestionTribunales-099.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-099.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - Procesando archivo 100/100: DatosGestionTribunales-100.xlsx
+2024-12-09 21:01:59 - ERROR - Error procesando DatosGestionTribunales-100.xlsx: 'BatchProcessor' object has no attribute 'extract_scenario_info'
+2024-12-09 21:01:59 - INFO - 
+Procesamiento completado:
+2024-12-09 21:01:59 - INFO - Total archivos: 100
+2024-12-09 21:01:59 - INFO - Procesados con éxito: 0
+2024-12-09 21:01:59 - INFO - Fallidos: 100
+2024-12-09 21:04:21 - INFO - Iniciando procesamiento en: d:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 21:04:21 - INFO - Resultados se guardarán en: d:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 21:04:21 - INFO - Archivo log.txt leído correctamente
+2024-12-09 21:04:21 - INFO - Encontrados 100 archivos para procesar
+2024-12-09 21:04:21 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-09 21:04:21 - INFO - Procesando DatosGestionTribunales-001.xlsx
+2024-12-09 21:23:13 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 21:23:13 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 21:26:56 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 21:26:56 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 21:26:56 - ERROR - Error en el procesamiento por lotes: 'BatchProcessor' object has no attribute 'current_dir'
+2024-12-09 21:35:22 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 21:35:22 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 21:35:22 - ERROR - Error en el procesamiento por lotes: 'utf-8' codec can't decode byte 0xf3 in position 47: invalid continuation byte
+2024-12-09 21:37:14 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241209-203904
+2024-12-09 21:37:14 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241209-203904\results
+2024-12-09 21:37:14 - INFO - Archivo log.txt leído correctamente con codificación latin-1
+2024-12-09 21:37:14 - INFO - Encontrados 100 archivos para procesar
+2024-12-09 21:37:14 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-09 21:37:14 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-09 21:37:16 - INFO - Procesamiento completado para DatosGestionTribunales-001.xlsx
+2024-12-09 21:37:16 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-09 21:37:16 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-09 21:37:17 - INFO - Procesamiento completado para DatosGestionTribunales-002.xlsx
+2024-12-09 21:37:17 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-09 21:37:17 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-09 21:37:18 - INFO - Procesamiento completado para DatosGestionTribunales-003.xlsx
+2024-12-09 21:37:18 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-09 21:37:18 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-09 21:37:19 - INFO - Procesamiento completado para DatosGestionTribunales-004.xlsx
+2024-12-09 21:37:19 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-09 21:37:19 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-09 21:37:21 - INFO - Procesamiento completado para DatosGestionTribunales-005.xlsx
+2024-12-09 21:37:21 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-09 21:37:21 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-09 21:37:24 - INFO - Procesamiento completado para DatosGestionTribunales-006.xlsx
+2024-12-09 21:37:24 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-09 21:37:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-09 21:37:27 - INFO - Procesamiento completado para DatosGestionTribunales-007.xlsx
+2024-12-09 21:37:27 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-09 21:37:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-09 21:37:29 - INFO - Procesamiento completado para DatosGestionTribunales-008.xlsx
+2024-12-09 21:37:29 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-09 21:37:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-009.xlsx
+2024-12-09 21:37:32 - INFO - Procesamiento completado para DatosGestionTribunales-009.xlsx
+2024-12-09 21:37:32 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-09 21:37:32 - INFO - Ejecutando algoritmos para DatosGestionTribunales-010.xlsx
+2024-12-09 21:37:35 - INFO - Procesamiento completado para DatosGestionTribunales-010.xlsx
+2024-12-09 21:37:35 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-09 21:37:35 - INFO - Ejecutando algoritmos para DatosGestionTribunales-011.xlsx
+2024-12-09 21:37:37 - INFO - Procesamiento completado para DatosGestionTribunales-011.xlsx
+2024-12-09 21:37:37 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-09 21:37:37 - INFO - Ejecutando algoritmos para DatosGestionTribunales-012.xlsx
+2024-12-09 21:37:41 - INFO - Procesamiento completado para DatosGestionTribunales-012.xlsx
+2024-12-09 21:37:41 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-09 21:37:41 - INFO - Ejecutando algoritmos para DatosGestionTribunales-013.xlsx
+2024-12-09 21:37:46 - INFO - Procesamiento completado para DatosGestionTribunales-013.xlsx
+2024-12-09 21:37:46 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-09 21:37:46 - INFO - Ejecutando algoritmos para DatosGestionTribunales-014.xlsx
+2024-12-09 21:37:51 - INFO - Procesamiento completado para DatosGestionTribunales-014.xlsx
+2024-12-09 21:37:51 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-09 21:37:51 - INFO - Ejecutando algoritmos para DatosGestionTribunales-015.xlsx
+2024-12-09 21:37:54 - INFO - Procesamiento completado para DatosGestionTribunales-015.xlsx
+2024-12-09 21:37:54 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-09 21:37:54 - INFO - Ejecutando algoritmos para DatosGestionTribunales-016.xlsx
+2024-12-09 21:38:02 - INFO - Procesamiento completado para DatosGestionTribunales-016.xlsx
+2024-12-09 21:38:02 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-09 21:38:02 - INFO - Ejecutando algoritmos para DatosGestionTribunales-017.xlsx
+2024-12-09 21:38:11 - INFO - Procesamiento completado para DatosGestionTribunales-017.xlsx
+2024-12-09 21:38:11 - INFO - Procesando archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-09 21:38:11 - INFO - Ejecutando algoritmos para DatosGestionTribunales-018.xlsx
+2024-12-09 21:38:18 - INFO - Procesamiento completado para DatosGestionTribunales-018.xlsx
+2024-12-09 21:38:18 - INFO - Procesando archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-09 21:38:18 - INFO - Ejecutando algoritmos para DatosGestionTribunales-019.xlsx
+2024-12-09 21:38:27 - INFO - Procesamiento completado para DatosGestionTribunales-019.xlsx
+2024-12-09 21:38:27 - INFO - Procesando archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-09 21:38:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-020.xlsx
+2024-12-09 21:38:32 - INFO - Procesamiento completado para DatosGestionTribunales-020.xlsx
+2024-12-09 21:38:32 - INFO - Procesando archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-09 21:38:32 - INFO - Ejecutando algoritmos para DatosGestionTribunales-021.xlsx
+2024-12-09 21:38:37 - INFO - Procesamiento completado para DatosGestionTribunales-021.xlsx
+2024-12-09 21:38:37 - INFO - Procesando archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-09 21:38:37 - INFO - Ejecutando algoritmos para DatosGestionTribunales-022.xlsx
+2024-12-09 21:38:44 - INFO - Procesamiento completado para DatosGestionTribunales-022.xlsx
+2024-12-09 21:38:44 - INFO - Procesando archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-09 21:38:44 - INFO - Ejecutando algoritmos para DatosGestionTribunales-023.xlsx
+2024-12-09 21:38:50 - INFO - Procesamiento completado para DatosGestionTribunales-023.xlsx
+2024-12-09 21:38:50 - INFO - Procesando archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-09 21:38:50 - INFO - Ejecutando algoritmos para DatosGestionTribunales-024.xlsx
+2024-12-09 21:38:55 - INFO - Procesamiento completado para DatosGestionTribunales-024.xlsx
+2024-12-09 21:38:55 - INFO - Procesando archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-09 21:38:55 - INFO - Ejecutando algoritmos para DatosGestionTribunales-025.xlsx
+2024-12-09 21:39:01 - INFO - Procesamiento completado para DatosGestionTribunales-025.xlsx
+2024-12-09 21:39:01 - INFO - Procesando archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-09 21:39:01 - INFO - Ejecutando algoritmos para DatosGestionTribunales-026.xlsx
+2024-12-09 21:39:08 - INFO - Procesamiento completado para DatosGestionTribunales-026.xlsx
+2024-12-09 21:39:08 - INFO - Procesando archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-09 21:39:08 - INFO - Ejecutando algoritmos para DatosGestionTribunales-027.xlsx
+2024-12-09 21:39:14 - INFO - Procesamiento completado para DatosGestionTribunales-027.xlsx
+2024-12-09 21:39:14 - INFO - Procesando archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-09 21:39:14 - INFO - Ejecutando algoritmos para DatosGestionTribunales-028.xlsx
+2024-12-09 21:39:21 - INFO - Procesamiento completado para DatosGestionTribunales-028.xlsx
+2024-12-09 21:39:21 - INFO - Procesando archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-09 21:39:21 - INFO - Ejecutando algoritmos para DatosGestionTribunales-029.xlsx
+2024-12-09 21:39:29 - INFO - Procesamiento completado para DatosGestionTribunales-029.xlsx
+2024-12-09 21:39:29 - INFO - Procesando archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-09 21:39:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-030.xlsx
+2024-12-09 21:39:38 - INFO - Procesamiento completado para DatosGestionTribunales-030.xlsx
+2024-12-09 21:39:38 - INFO - Procesando archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-09 21:39:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-031.xlsx
+2024-12-09 21:39:46 - INFO - Procesamiento completado para DatosGestionTribunales-031.xlsx
+2024-12-09 21:39:46 - INFO - Procesando archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-09 21:39:46 - INFO - Ejecutando algoritmos para DatosGestionTribunales-032.xlsx
+2024-12-09 21:39:54 - INFO - Procesamiento completado para DatosGestionTribunales-032.xlsx
+2024-12-09 21:39:54 - INFO - Procesando archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-09 21:39:54 - INFO - Ejecutando algoritmos para DatosGestionTribunales-033.xlsx
+2024-12-09 21:40:03 - INFO - Procesamiento completado para DatosGestionTribunales-033.xlsx
+2024-12-09 21:40:03 - INFO - Procesando archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-09 21:40:03 - INFO - Ejecutando algoritmos para DatosGestionTribunales-034.xlsx
+2024-12-09 21:40:11 - INFO - Procesamiento completado para DatosGestionTribunales-034.xlsx
+2024-12-09 21:40:11 - INFO - Procesando archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-09 21:40:11 - INFO - Ejecutando algoritmos para DatosGestionTribunales-035.xlsx
+2024-12-09 21:40:21 - INFO - Procesamiento completado para DatosGestionTribunales-035.xlsx
+2024-12-09 21:40:21 - INFO - Procesando archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-09 21:40:21 - INFO - Ejecutando algoritmos para DatosGestionTribunales-036.xlsx
+2024-12-09 21:40:30 - INFO - Procesamiento completado para DatosGestionTribunales-036.xlsx
+2024-12-09 21:40:30 - INFO - Procesando archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-09 21:40:30 - INFO - Ejecutando algoritmos para DatosGestionTribunales-037.xlsx
+2024-12-09 21:41:28 - INFO - Procesamiento completado para DatosGestionTribunales-037.xlsx
+2024-12-09 21:41:28 - INFO - Procesando archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-09 21:41:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-038.xlsx
+2024-12-09 21:41:43 - INFO - Procesamiento completado para DatosGestionTribunales-038.xlsx
+2024-12-09 21:41:43 - INFO - Procesando archivo 39/100: DatosGestionTribunales-039.xlsx
+2024-12-09 21:41:43 - INFO - Ejecutando algoritmos para DatosGestionTribunales-039.xlsx
+2024-12-09 21:41:54 - INFO - Procesamiento completado para DatosGestionTribunales-039.xlsx
+2024-12-09 21:41:54 - INFO - Procesando archivo 40/100: DatosGestionTribunales-040.xlsx
+2024-12-09 21:41:54 - INFO - Ejecutando algoritmos para DatosGestionTribunales-040.xlsx
+2024-12-09 21:42:05 - INFO - Procesamiento completado para DatosGestionTribunales-040.xlsx
+2024-12-09 21:42:05 - INFO - Procesando archivo 41/100: DatosGestionTribunales-041.xlsx
+2024-12-09 21:42:05 - INFO - Ejecutando algoritmos para DatosGestionTribunales-041.xlsx
+2024-12-09 21:42:16 - INFO - Procesamiento completado para DatosGestionTribunales-041.xlsx
+2024-12-09 21:42:16 - INFO - Procesando archivo 42/100: DatosGestionTribunales-042.xlsx
+2024-12-09 21:42:16 - INFO - Ejecutando algoritmos para DatosGestionTribunales-042.xlsx
+2024-12-09 21:42:27 - INFO - Procesamiento completado para DatosGestionTribunales-042.xlsx
+2024-12-09 21:42:27 - INFO - Procesando archivo 43/100: DatosGestionTribunales-043.xlsx
+2024-12-09 21:42:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-043.xlsx
+2024-12-09 21:42:39 - INFO - Procesamiento completado para DatosGestionTribunales-043.xlsx
+2024-12-09 21:42:39 - INFO - Procesando archivo 44/100: DatosGestionTribunales-044.xlsx
+2024-12-09 21:42:39 - INFO - Ejecutando algoritmos para DatosGestionTribunales-044.xlsx
+2024-12-09 21:42:52 - INFO - Procesamiento completado para DatosGestionTribunales-044.xlsx
+2024-12-09 21:42:52 - INFO - Procesando archivo 45/100: DatosGestionTribunales-045.xlsx
+2024-12-09 21:42:52 - INFO - Ejecutando algoritmos para DatosGestionTribunales-045.xlsx
+2024-12-09 21:43:05 - INFO - Procesamiento completado para DatosGestionTribunales-045.xlsx
+2024-12-09 21:43:05 - INFO - Procesando archivo 46/100: DatosGestionTribunales-046.xlsx
+2024-12-09 21:43:05 - INFO - Ejecutando algoritmos para DatosGestionTribunales-046.xlsx
+2024-12-09 21:43:20 - INFO - Procesamiento completado para DatosGestionTribunales-046.xlsx
+2024-12-09 21:43:20 - INFO - Procesando archivo 47/100: DatosGestionTribunales-047.xlsx
+2024-12-09 21:43:20 - INFO - Ejecutando algoritmos para DatosGestionTribunales-047.xlsx
+2024-12-09 21:43:34 - INFO - Procesamiento completado para DatosGestionTribunales-047.xlsx
+2024-12-09 21:43:34 - INFO - Procesando archivo 48/100: DatosGestionTribunales-048.xlsx
+2024-12-09 21:43:34 - INFO - Ejecutando algoritmos para DatosGestionTribunales-048.xlsx
+2024-12-09 21:43:48 - INFO - Procesamiento completado para DatosGestionTribunales-048.xlsx
+2024-12-09 21:43:48 - INFO - Procesando archivo 49/100: DatosGestionTribunales-049.xlsx
+2024-12-09 21:43:48 - INFO - Ejecutando algoritmos para DatosGestionTribunales-049.xlsx
+2024-12-09 21:44:03 - INFO - Procesamiento completado para DatosGestionTribunales-049.xlsx
+2024-12-09 21:44:03 - INFO - Procesando archivo 50/100: DatosGestionTribunales-050.xlsx
+2024-12-09 21:44:03 - INFO - Ejecutando algoritmos para DatosGestionTribunales-050.xlsx
+2024-12-09 21:44:18 - INFO - Procesamiento completado para DatosGestionTribunales-050.xlsx
+2024-12-09 21:44:18 - INFO - Procesando archivo 51/100: DatosGestionTribunales-051.xlsx
+2024-12-09 21:44:18 - INFO - Ejecutando algoritmos para DatosGestionTribunales-051.xlsx
+2024-12-09 21:44:34 - INFO - Procesamiento completado para DatosGestionTribunales-051.xlsx
+2024-12-09 21:44:34 - INFO - Procesando archivo 52/100: DatosGestionTribunales-052.xlsx
+2024-12-09 21:44:34 - INFO - Ejecutando algoritmos para DatosGestionTribunales-052.xlsx
+2024-12-09 21:44:49 - INFO - Procesamiento completado para DatosGestionTribunales-052.xlsx
+2024-12-09 21:44:49 - INFO - Procesando archivo 53/100: DatosGestionTribunales-053.xlsx
+2024-12-09 21:44:49 - INFO - Ejecutando algoritmos para DatosGestionTribunales-053.xlsx
+2024-12-09 21:45:06 - INFO - Procesamiento completado para DatosGestionTribunales-053.xlsx
+2024-12-09 21:45:06 - INFO - Procesando archivo 54/100: DatosGestionTribunales-054.xlsx
+2024-12-09 21:45:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-054.xlsx
+2024-12-09 21:45:22 - INFO - Procesamiento completado para DatosGestionTribunales-054.xlsx
+2024-12-09 21:45:22 - INFO - Procesando archivo 55/100: DatosGestionTribunales-055.xlsx
+2024-12-09 21:45:22 - INFO - Ejecutando algoritmos para DatosGestionTribunales-055.xlsx
+2024-12-09 21:45:39 - INFO - Procesamiento completado para DatosGestionTribunales-055.xlsx
+2024-12-09 21:45:39 - INFO - Procesando archivo 56/100: DatosGestionTribunales-056.xlsx
+2024-12-09 21:45:39 - INFO - Ejecutando algoritmos para DatosGestionTribunales-056.xlsx
+2024-12-09 21:45:57 - INFO - Procesamiento completado para DatosGestionTribunales-056.xlsx
+2024-12-09 21:45:57 - INFO - Procesando archivo 57/100: DatosGestionTribunales-057.xlsx
+2024-12-09 21:45:57 - INFO - Ejecutando algoritmos para DatosGestionTribunales-057.xlsx
+2024-12-09 21:46:16 - INFO - Procesamiento completado para DatosGestionTribunales-057.xlsx
+2024-12-09 21:46:16 - INFO - Procesando archivo 58/100: DatosGestionTribunales-058.xlsx
+2024-12-09 21:46:16 - INFO - Ejecutando algoritmos para DatosGestionTribunales-058.xlsx
+2024-12-09 21:46:38 - INFO - Procesamiento completado para DatosGestionTribunales-058.xlsx
+2024-12-09 21:46:38 - INFO - Procesando archivo 59/100: DatosGestionTribunales-059.xlsx
+2024-12-09 21:46:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-059.xlsx
+2024-12-09 21:47:00 - INFO - Procesamiento completado para DatosGestionTribunales-059.xlsx
+2024-12-09 21:47:00 - INFO - Procesando archivo 60/100: DatosGestionTribunales-060.xlsx
+2024-12-09 21:47:00 - INFO - Ejecutando algoritmos para DatosGestionTribunales-060.xlsx
+2024-12-09 21:47:21 - INFO - Procesamiento completado para DatosGestionTribunales-060.xlsx
+2024-12-09 21:47:21 - INFO - Procesando archivo 61/100: DatosGestionTribunales-061.xlsx
+2024-12-09 21:47:21 - INFO - Ejecutando algoritmos para DatosGestionTribunales-061.xlsx
+2024-12-09 21:47:42 - INFO - Procesamiento completado para DatosGestionTribunales-061.xlsx
+2024-12-09 21:47:42 - INFO - Procesando archivo 62/100: DatosGestionTribunales-062.xlsx
+2024-12-09 21:47:42 - INFO - Ejecutando algoritmos para DatosGestionTribunales-062.xlsx
+2024-12-09 21:48:04 - INFO - Procesamiento completado para DatosGestionTribunales-062.xlsx
+2024-12-09 21:48:04 - INFO - Procesando archivo 63/100: DatosGestionTribunales-063.xlsx
+2024-12-09 21:48:04 - INFO - Ejecutando algoritmos para DatosGestionTribunales-063.xlsx
+2024-12-09 21:48:26 - INFO - Procesamiento completado para DatosGestionTribunales-063.xlsx
+2024-12-09 21:48:26 - INFO - Procesando archivo 64/100: DatosGestionTribunales-064.xlsx
+2024-12-09 21:48:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-064.xlsx
+2024-12-09 21:48:48 - INFO - Procesamiento completado para DatosGestionTribunales-064.xlsx
+2024-12-09 21:48:48 - INFO - Procesando archivo 65/100: DatosGestionTribunales-065.xlsx
+2024-12-09 21:48:48 - INFO - Ejecutando algoritmos para DatosGestionTribunales-065.xlsx
+2024-12-09 21:49:10 - INFO - Procesamiento completado para DatosGestionTribunales-065.xlsx
+2024-12-09 21:49:10 - INFO - Procesando archivo 66/100: DatosGestionTribunales-066.xlsx
+2024-12-09 21:49:10 - INFO - Ejecutando algoritmos para DatosGestionTribunales-066.xlsx
+2024-12-09 21:49:32 - INFO - Procesamiento completado para DatosGestionTribunales-066.xlsx
+2024-12-09 21:49:32 - INFO - Procesando archivo 67/100: DatosGestionTribunales-067.xlsx
+2024-12-09 21:49:32 - INFO - Ejecutando algoritmos para DatosGestionTribunales-067.xlsx
+2024-12-09 21:49:54 - INFO - Procesamiento completado para DatosGestionTribunales-067.xlsx
+2024-12-09 21:49:54 - INFO - Procesando archivo 68/100: DatosGestionTribunales-068.xlsx
+2024-12-09 21:49:54 - INFO - Ejecutando algoritmos para DatosGestionTribunales-068.xlsx
+2024-12-09 21:50:17 - INFO - Procesamiento completado para DatosGestionTribunales-068.xlsx
+2024-12-09 21:50:17 - INFO - Procesando archivo 69/100: DatosGestionTribunales-069.xlsx
+2024-12-09 21:50:17 - INFO - Ejecutando algoritmos para DatosGestionTribunales-069.xlsx
+2024-12-09 21:50:40 - INFO - Procesamiento completado para DatosGestionTribunales-069.xlsx
+2024-12-09 21:50:40 - INFO - Procesando archivo 70/100: DatosGestionTribunales-070.xlsx
+2024-12-09 21:50:40 - INFO - Ejecutando algoritmos para DatosGestionTribunales-070.xlsx
+2024-12-09 21:51:03 - INFO - Procesamiento completado para DatosGestionTribunales-070.xlsx
+2024-12-09 21:51:03 - INFO - Procesando archivo 71/100: DatosGestionTribunales-071.xlsx
+2024-12-09 21:51:03 - INFO - Ejecutando algoritmos para DatosGestionTribunales-071.xlsx
+2024-12-09 21:51:27 - INFO - Procesamiento completado para DatosGestionTribunales-071.xlsx
+2024-12-09 21:51:27 - INFO - Procesando archivo 72/100: DatosGestionTribunales-072.xlsx
+2024-12-09 21:51:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-072.xlsx
+2024-12-09 22:01:36 - INFO - Procesamiento completado para DatosGestionTribunales-072.xlsx
+2024-12-09 22:01:36 - INFO - Procesando archivo 73/100: DatosGestionTribunales-073.xlsx
+2024-12-09 22:01:36 - INFO - Ejecutando algoritmos para DatosGestionTribunales-073.xlsx
+2024-12-09 22:02:00 - INFO - Procesamiento completado para DatosGestionTribunales-073.xlsx
+2024-12-09 22:02:00 - INFO - Procesando archivo 74/100: DatosGestionTribunales-074.xlsx
+2024-12-09 22:02:00 - INFO - Ejecutando algoritmos para DatosGestionTribunales-074.xlsx
+2024-12-09 22:02:24 - INFO - Procesamiento completado para DatosGestionTribunales-074.xlsx
+2024-12-09 22:02:24 - INFO - Procesando archivo 75/100: DatosGestionTribunales-075.xlsx
+2024-12-09 22:02:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-075.xlsx
+2024-12-09 22:02:48 - INFO - Procesamiento completado para DatosGestionTribunales-075.xlsx
+2024-12-09 22:02:48 - INFO - Procesando archivo 76/100: DatosGestionTribunales-076.xlsx
+2024-12-09 22:02:48 - INFO - Ejecutando algoritmos para DatosGestionTribunales-076.xlsx
+2024-12-09 22:03:13 - INFO - Procesamiento completado para DatosGestionTribunales-076.xlsx
+2024-12-09 22:03:13 - INFO - Procesando archivo 77/100: DatosGestionTribunales-077.xlsx
+2024-12-09 22:03:13 - INFO - Ejecutando algoritmos para DatosGestionTribunales-077.xlsx
+2024-12-09 22:08:59 - INFO - Procesamiento completado para DatosGestionTribunales-077.xlsx
+2024-12-09 22:08:59 - INFO - Procesando archivo 78/100: DatosGestionTribunales-078.xlsx
+2024-12-09 22:08:59 - INFO - Ejecutando algoritmos para DatosGestionTribunales-078.xlsx
+2024-12-09 22:09:24 - INFO - Procesamiento completado para DatosGestionTribunales-078.xlsx
+2024-12-09 22:09:24 - INFO - Procesando archivo 79/100: DatosGestionTribunales-079.xlsx
+2024-12-09 22:09:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-079.xlsx
+2024-12-09 22:09:50 - INFO - Procesamiento completado para DatosGestionTribunales-079.xlsx
+2024-12-09 22:09:50 - INFO - Procesando archivo 80/100: DatosGestionTribunales-080.xlsx
+2024-12-09 22:09:50 - INFO - Ejecutando algoritmos para DatosGestionTribunales-080.xlsx
+2024-12-09 22:10:16 - INFO - Procesamiento completado para DatosGestionTribunales-080.xlsx
+2024-12-09 22:10:16 - INFO - Procesando archivo 81/100: DatosGestionTribunales-081.xlsx
+2024-12-09 22:10:16 - INFO - Ejecutando algoritmos para DatosGestionTribunales-081.xlsx
+2024-12-09 22:10:42 - INFO - Procesamiento completado para DatosGestionTribunales-081.xlsx
+2024-12-09 22:10:42 - INFO - Procesando archivo 82/100: DatosGestionTribunales-082.xlsx
+2024-12-09 22:10:42 - INFO - Ejecutando algoritmos para DatosGestionTribunales-082.xlsx
+2024-12-09 22:11:09 - INFO - Procesamiento completado para DatosGestionTribunales-082.xlsx
+2024-12-09 22:11:09 - INFO - Procesando archivo 83/100: DatosGestionTribunales-083.xlsx
+2024-12-09 22:11:09 - INFO - Ejecutando algoritmos para DatosGestionTribunales-083.xlsx
+2024-12-09 22:11:37 - INFO - Procesamiento completado para DatosGestionTribunales-083.xlsx
+2024-12-09 22:11:37 - INFO - Procesando archivo 84/100: DatosGestionTribunales-084.xlsx
+2024-12-09 22:11:37 - INFO - Ejecutando algoritmos para DatosGestionTribunales-084.xlsx
+2024-12-09 22:12:04 - INFO - Procesamiento completado para DatosGestionTribunales-084.xlsx
+2024-12-09 22:12:04 - INFO - Procesando archivo 85/100: DatosGestionTribunales-085.xlsx
+2024-12-09 22:12:04 - INFO - Ejecutando algoritmos para DatosGestionTribunales-085.xlsx
+2024-12-09 22:12:32 - INFO - Procesamiento completado para DatosGestionTribunales-085.xlsx
+2024-12-09 22:12:32 - INFO - Procesando archivo 86/100: DatosGestionTribunales-086.xlsx
+2024-12-09 22:12:32 - INFO - Ejecutando algoritmos para DatosGestionTribunales-086.xlsx
+2024-12-09 22:13:00 - INFO - Procesamiento completado para DatosGestionTribunales-086.xlsx
+2024-12-09 22:13:00 - INFO - Procesando archivo 87/100: DatosGestionTribunales-087.xlsx
+2024-12-09 22:13:00 - INFO - Ejecutando algoritmos para DatosGestionTribunales-087.xlsx
+2024-12-09 22:13:29 - INFO - Procesamiento completado para DatosGestionTribunales-087.xlsx
+2024-12-09 22:13:29 - INFO - Procesando archivo 88/100: DatosGestionTribunales-088.xlsx
+2024-12-09 22:13:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-088.xlsx
+2024-12-09 22:14:00 - INFO - Procesamiento completado para DatosGestionTribunales-088.xlsx
+2024-12-09 22:14:00 - INFO - Procesando archivo 89/100: DatosGestionTribunales-089.xlsx
+2024-12-09 22:14:00 - INFO - Ejecutando algoritmos para DatosGestionTribunales-089.xlsx
+2024-12-09 22:14:30 - INFO - Procesamiento completado para DatosGestionTribunales-089.xlsx
+2024-12-09 22:14:30 - INFO - Procesando archivo 90/100: DatosGestionTribunales-090.xlsx
+2024-12-09 22:14:30 - INFO - Ejecutando algoritmos para DatosGestionTribunales-090.xlsx
+2024-12-09 22:15:01 - INFO - Procesamiento completado para DatosGestionTribunales-090.xlsx
+2024-12-09 22:15:01 - INFO - Procesando archivo 91/100: DatosGestionTribunales-091.xlsx
+2024-12-09 22:15:01 - INFO - Ejecutando algoritmos para DatosGestionTribunales-091.xlsx
+2024-12-09 22:15:31 - INFO - Procesamiento completado para DatosGestionTribunales-091.xlsx
+2024-12-09 22:15:31 - INFO - Procesando archivo 92/100: DatosGestionTribunales-092.xlsx
+2024-12-09 22:15:31 - INFO - Ejecutando algoritmos para DatosGestionTribunales-092.xlsx
+2024-12-09 22:16:03 - INFO - Procesamiento completado para DatosGestionTribunales-092.xlsx
+2024-12-09 22:16:03 - INFO - Procesando archivo 93/100: DatosGestionTribunales-093.xlsx
+2024-12-09 22:16:03 - INFO - Ejecutando algoritmos para DatosGestionTribunales-093.xlsx
+2024-12-09 22:16:34 - INFO - Procesamiento completado para DatosGestionTribunales-093.xlsx
+2024-12-09 22:16:34 - INFO - Procesando archivo 94/100: DatosGestionTribunales-094.xlsx
+2024-12-09 22:16:34 - INFO - Ejecutando algoritmos para DatosGestionTribunales-094.xlsx
+2024-12-09 22:17:07 - INFO - Procesamiento completado para DatosGestionTribunales-094.xlsx
+2024-12-09 22:17:07 - INFO - Procesando archivo 95/100: DatosGestionTribunales-095.xlsx
+2024-12-09 22:17:07 - INFO - Ejecutando algoritmos para DatosGestionTribunales-095.xlsx
+2024-12-09 22:17:41 - INFO - Procesamiento completado para DatosGestionTribunales-095.xlsx
+2024-12-09 22:17:41 - INFO - Procesando archivo 96/100: DatosGestionTribunales-096.xlsx
+2024-12-09 22:17:41 - INFO - Ejecutando algoritmos para DatosGestionTribunales-096.xlsx
+2024-12-09 22:18:15 - INFO - Procesamiento completado para DatosGestionTribunales-096.xlsx
+2024-12-09 22:18:15 - INFO - Procesando archivo 97/100: DatosGestionTribunales-097.xlsx
+2024-12-09 22:18:15 - INFO - Ejecutando algoritmos para DatosGestionTribunales-097.xlsx
+2024-12-09 22:18:49 - INFO - Procesamiento completado para DatosGestionTribunales-097.xlsx
+2024-12-09 22:18:49 - INFO - Procesando archivo 98/100: DatosGestionTribunales-098.xlsx
+2024-12-09 22:18:49 - INFO - Ejecutando algoritmos para DatosGestionTribunales-098.xlsx
+2024-12-09 22:19:24 - INFO - Procesamiento completado para DatosGestionTribunales-098.xlsx
+2024-12-09 22:19:24 - INFO - Procesando archivo 99/100: DatosGestionTribunales-099.xlsx
+2024-12-09 22:19:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-099.xlsx
+2024-12-09 22:19:58 - INFO - Procesamiento completado para DatosGestionTribunales-099.xlsx
+2024-12-09 22:19:58 - INFO - Procesando archivo 100/100: DatosGestionTribunales-100.xlsx
+2024-12-09 22:19:58 - INFO - Ejecutando algoritmos para DatosGestionTribunales-100.xlsx
+2024-12-09 22:20:33 - INFO - Procesamiento completado para DatosGestionTribunales-100.xlsx
+2024-12-09 22:20:33 - INFO - 
+Procesamiento completado:
+2024-12-09 22:20:33 - INFO - Total archivos: 100
+2024-12-09 22:20:33 - INFO - Procesados con éxito: 100
+2024-12-09 22:20:33 - INFO - Fallidos: 0

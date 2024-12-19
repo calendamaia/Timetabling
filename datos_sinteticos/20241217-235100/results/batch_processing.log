@@ -1,0 +1,843 @@
+2024-12-17 23:52:06 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241217-235100
+2024-12-17 23:52:06 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241217-235100\results
+2024-12-17 23:52:06 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-17 23:52:06 - INFO - Encontrados 100 archivos para procesar
+2024-12-17 23:52:06 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-009.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-010.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-011.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-012.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-013.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-014.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-015.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-016.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-017.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-018.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-019.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-020.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-021.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-022.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-023.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-024.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-025.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-026.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-027.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-028.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-029.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-030.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-031.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-032.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-033.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-034.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-035.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-036.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-037.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-038.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 39/100: DatosGestionTribunales-039.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-039.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 40/100: DatosGestionTribunales-040.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-040.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 41/100: DatosGestionTribunales-041.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-041.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 42/100: DatosGestionTribunales-042.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-042.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 43/100: DatosGestionTribunales-043.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-043.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 44/100: DatosGestionTribunales-044.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-044.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 45/100: DatosGestionTribunales-045.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-045.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 46/100: DatosGestionTribunales-046.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-046.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 47/100: DatosGestionTribunales-047.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-047.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 48/100: DatosGestionTribunales-048.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-048.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 49/100: DatosGestionTribunales-049.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-049.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 50/100: DatosGestionTribunales-050.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-050.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 51/100: DatosGestionTribunales-051.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-051.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 52/100: DatosGestionTribunales-052.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-052.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 53/100: DatosGestionTribunales-053.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-053.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 54/100: DatosGestionTribunales-054.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-054.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 55/100: DatosGestionTribunales-055.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-055.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 56/100: DatosGestionTribunales-056.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-056.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 57/100: DatosGestionTribunales-057.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-057.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 58/100: DatosGestionTribunales-058.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-058.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 59/100: DatosGestionTribunales-059.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-059.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 60/100: DatosGestionTribunales-060.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-060.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 61/100: DatosGestionTribunales-061.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-061.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 62/100: DatosGestionTribunales-062.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-062.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 63/100: DatosGestionTribunales-063.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-063.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 64/100: DatosGestionTribunales-064.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-064.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 65/100: DatosGestionTribunales-065.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-065.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 66/100: DatosGestionTribunales-066.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-066.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 67/100: DatosGestionTribunales-067.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-067.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 68/100: DatosGestionTribunales-068.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-068.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 69/100: DatosGestionTribunales-069.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-069.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 70/100: DatosGestionTribunales-070.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-070.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 71/100: DatosGestionTribunales-071.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-071.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 72/100: DatosGestionTribunales-072.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-072.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 73/100: DatosGestionTribunales-073.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-073.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 74/100: DatosGestionTribunales-074.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-074.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 75/100: DatosGestionTribunales-075.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-075.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 76/100: DatosGestionTribunales-076.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-076.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 77/100: DatosGestionTribunales-077.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-077.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 78/100: DatosGestionTribunales-078.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-078.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 79/100: DatosGestionTribunales-079.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-079.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 80/100: DatosGestionTribunales-080.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-080.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 81/100: DatosGestionTribunales-081.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-081.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 82/100: DatosGestionTribunales-082.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-082.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 83/100: DatosGestionTribunales-083.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-083.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 84/100: DatosGestionTribunales-084.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-084.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 85/100: DatosGestionTribunales-085.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-085.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 86/100: DatosGestionTribunales-086.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-086.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 87/100: DatosGestionTribunales-087.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-087.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 88/100: DatosGestionTribunales-088.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-088.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 89/100: DatosGestionTribunales-089.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-089.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 90/100: DatosGestionTribunales-090.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-090.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 91/100: DatosGestionTribunales-091.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-091.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 92/100: DatosGestionTribunales-092.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-092.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 93/100: DatosGestionTribunales-093.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-093.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 94/100: DatosGestionTribunales-094.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-094.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 95/100: DatosGestionTribunales-095.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-095.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 96/100: DatosGestionTribunales-096.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-096.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 97/100: DatosGestionTribunales-097.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-097.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 98/100: DatosGestionTribunales-098.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-098.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 99/100: DatosGestionTribunales-099.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-099.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - Procesando archivo 100/100: DatosGestionTribunales-100.xlsx
+2024-12-17 23:52:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-100.xlsx
+2024-12-17 23:52:06 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-17 23:52:06 - INFO - 
+Procesamiento completado:
+2024-12-17 23:52:06 - INFO - Total archivos: 100
+2024-12-17 23:52:06 - INFO - Procesados con éxito: 0
+2024-12-17 23:52:06 - INFO - Fallidos: 100
+2024-12-18 00:03:28 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241217-235100
+2024-12-18 00:03:28 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241217-235100\results
+2024-12-18 00:03:28 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-18 00:03:28 - INFO - Encontrados 100 archivos para procesar
+2024-12-18 00:03:28 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-009.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-010.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-011.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-012.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-013.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-014.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-015.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-016.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-017.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-018.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-019.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-020.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-021.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-022.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-023.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-024.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-025.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-026.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-027.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-028.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-029.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-18 00:03:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-030.xlsx
+2024-12-18 00:03:28 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:28 - INFO - Procesando archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-031.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-032.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-033.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-034.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-035.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-036.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-037.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-038.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 39/100: DatosGestionTribunales-039.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-039.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 40/100: DatosGestionTribunales-040.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-040.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 41/100: DatosGestionTribunales-041.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-041.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 42/100: DatosGestionTribunales-042.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-042.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 43/100: DatosGestionTribunales-043.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-043.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 44/100: DatosGestionTribunales-044.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-044.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 45/100: DatosGestionTribunales-045.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-045.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 46/100: DatosGestionTribunales-046.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-046.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 47/100: DatosGestionTribunales-047.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-047.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 48/100: DatosGestionTribunales-048.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-048.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 49/100: DatosGestionTribunales-049.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-049.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 50/100: DatosGestionTribunales-050.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-050.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 51/100: DatosGestionTribunales-051.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-051.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 52/100: DatosGestionTribunales-052.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-052.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 53/100: DatosGestionTribunales-053.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-053.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 54/100: DatosGestionTribunales-054.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-054.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 55/100: DatosGestionTribunales-055.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-055.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 56/100: DatosGestionTribunales-056.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-056.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 57/100: DatosGestionTribunales-057.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-057.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 58/100: DatosGestionTribunales-058.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-058.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 59/100: DatosGestionTribunales-059.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-059.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 60/100: DatosGestionTribunales-060.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-060.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 61/100: DatosGestionTribunales-061.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-061.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 62/100: DatosGestionTribunales-062.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-062.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 63/100: DatosGestionTribunales-063.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-063.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 64/100: DatosGestionTribunales-064.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-064.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 65/100: DatosGestionTribunales-065.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-065.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 66/100: DatosGestionTribunales-066.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-066.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 67/100: DatosGestionTribunales-067.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-067.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 68/100: DatosGestionTribunales-068.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-068.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 69/100: DatosGestionTribunales-069.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-069.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 70/100: DatosGestionTribunales-070.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-070.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 71/100: DatosGestionTribunales-071.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-071.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 72/100: DatosGestionTribunales-072.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-072.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 73/100: DatosGestionTribunales-073.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-073.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 74/100: DatosGestionTribunales-074.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-074.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 75/100: DatosGestionTribunales-075.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-075.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 76/100: DatosGestionTribunales-076.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-076.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 77/100: DatosGestionTribunales-077.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-077.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 78/100: DatosGestionTribunales-078.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-078.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 79/100: DatosGestionTribunales-079.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-079.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 80/100: DatosGestionTribunales-080.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-080.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 81/100: DatosGestionTribunales-081.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-081.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 82/100: DatosGestionTribunales-082.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-082.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 83/100: DatosGestionTribunales-083.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-083.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 84/100: DatosGestionTribunales-084.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-084.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 85/100: DatosGestionTribunales-085.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-085.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 86/100: DatosGestionTribunales-086.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-086.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 87/100: DatosGestionTribunales-087.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-087.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 88/100: DatosGestionTribunales-088.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-088.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 89/100: DatosGestionTribunales-089.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-089.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 90/100: DatosGestionTribunales-090.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-090.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 91/100: DatosGestionTribunales-091.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-091.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 92/100: DatosGestionTribunales-092.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-092.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 93/100: DatosGestionTribunales-093.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-093.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 94/100: DatosGestionTribunales-094.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-094.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 95/100: DatosGestionTribunales-095.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-095.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 96/100: DatosGestionTribunales-096.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-096.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 97/100: DatosGestionTribunales-097.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-097.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 98/100: DatosGestionTribunales-098.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-098.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 99/100: DatosGestionTribunales-099.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-099.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - Procesando archivo 100/100: DatosGestionTribunales-100.xlsx
+2024-12-18 00:03:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-100.xlsx
+2024-12-18 00:03:29 - ERROR - Error ejecutando algoritmos: object.__init__() takes exactly one argument (the instance to initialize)
+2024-12-18 00:03:29 - INFO - 
+Procesamiento completado:
+2024-12-18 00:03:29 - INFO - Total archivos: 100
+2024-12-18 00:03:29 - INFO - Procesados con éxito: 0
+2024-12-18 00:03:29 - INFO - Fallidos: 100
+2024-12-18 00:08:22 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241217-235100
+2024-12-18 00:08:22 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241217-235100\results
+2024-12-18 00:08:22 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-18 00:08:22 - INFO - Encontrados 100 archivos para procesar
+2024-12-18 00:08:22 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-18 00:08:22 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-18 00:08:24 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:24 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-18 00:08:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-18 00:08:24 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:24 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-18 00:08:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-18 00:08:24 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:24 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-18 00:08:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-18 00:08:24 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:24 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-18 00:08:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-18 00:08:24 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:24 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-18 00:08:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-009.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-010.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-011.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-012.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-013.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-014.xlsx
+2024-12-18 00:08:25 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:25 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-18 00:08:25 - INFO - Ejecutando algoritmos para DatosGestionTribunales-015.xlsx
+2024-12-18 00:08:26 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:26 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-18 00:08:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-016.xlsx
+2024-12-18 00:08:26 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:26 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-18 00:08:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-017.xlsx
+2024-12-18 00:08:26 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:26 - INFO - Procesando archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-18 00:08:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-018.xlsx
+2024-12-18 00:08:26 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:26 - INFO - Procesando archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-18 00:08:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-019.xlsx
+2024-12-18 00:08:26 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:26 - INFO - Procesando archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-18 00:08:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-020.xlsx
+2024-12-18 00:08:26 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:26 - INFO - Procesando archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-18 00:08:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-021.xlsx
+2024-12-18 00:08:27 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:27 - INFO - Procesando archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-18 00:08:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-022.xlsx
+2024-12-18 00:08:27 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:27 - INFO - Procesando archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-18 00:08:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-023.xlsx
+2024-12-18 00:08:27 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:27 - INFO - Procesando archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-18 00:08:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-024.xlsx
+2024-12-18 00:08:27 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:27 - INFO - Procesando archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-18 00:08:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-025.xlsx
+2024-12-18 00:08:27 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:27 - INFO - Procesando archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-18 00:08:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-026.xlsx
+2024-12-18 00:08:28 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:28 - INFO - Procesando archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-18 00:08:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-027.xlsx
+2024-12-18 00:08:28 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:28 - INFO - Procesando archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-18 00:08:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-028.xlsx
+2024-12-18 00:08:28 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:28 - INFO - Procesando archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-18 00:08:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-029.xlsx
+2024-12-18 00:08:28 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:28 - INFO - Procesando archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-18 00:08:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-030.xlsx
+2024-12-18 00:08:28 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:28 - INFO - Procesando archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-18 00:08:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-031.xlsx
+2024-12-18 00:08:29 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:29 - INFO - Procesando archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-18 00:08:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-032.xlsx
+2024-12-18 00:08:29 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:29 - INFO - Procesando archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-18 00:08:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-033.xlsx
+2024-12-18 00:08:29 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:29 - INFO - Procesando archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-18 00:08:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-034.xlsx
+2024-12-18 00:08:29 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:29 - INFO - Procesando archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-18 00:08:29 - INFO - Ejecutando algoritmos para DatosGestionTribunales-035.xlsx
+2024-12-18 00:08:30 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:30 - INFO - Procesando archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-18 00:08:30 - INFO - Ejecutando algoritmos para DatosGestionTribunales-036.xlsx
+2024-12-18 00:08:30 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:30 - INFO - Procesando archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-18 00:08:30 - INFO - Ejecutando algoritmos para DatosGestionTribunales-037.xlsx
+2024-12-18 00:08:30 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:30 - INFO - Procesando archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-18 00:08:30 - INFO - Ejecutando algoritmos para DatosGestionTribunales-038.xlsx
+2024-12-18 00:08:31 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:31 - INFO - Procesando archivo 39/100: DatosGestionTribunales-039.xlsx
+2024-12-18 00:08:31 - INFO - Ejecutando algoritmos para DatosGestionTribunales-039.xlsx
+2024-12-18 00:08:31 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:31 - INFO - Procesando archivo 40/100: DatosGestionTribunales-040.xlsx
+2024-12-18 00:08:31 - INFO - Ejecutando algoritmos para DatosGestionTribunales-040.xlsx
+2024-12-18 00:08:31 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:31 - INFO - Procesando archivo 41/100: DatosGestionTribunales-041.xlsx
+2024-12-18 00:08:31 - INFO - Ejecutando algoritmos para DatosGestionTribunales-041.xlsx
+2024-12-18 00:08:32 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:32 - INFO - Procesando archivo 42/100: DatosGestionTribunales-042.xlsx
+2024-12-18 00:08:32 - INFO - Ejecutando algoritmos para DatosGestionTribunales-042.xlsx
+2024-12-18 00:08:32 - ERROR - Error ejecutando algoritmos: 'TimetablingGA' object has no attribute 'timeslot_dates'
+2024-12-18 00:08:32 - INFO - Procesando archivo 43/100: DatosGestionTribunales-043.xlsx
+2024-12-18 00:08:32 - INFO - Ejecutando algoritmos para DatosGestionTribunales-043.xlsx
+2024-12-18 00:09:52 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241217-235100
+2024-12-18 00:09:52 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241217-235100\results
+2024-12-18 00:09:52 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-18 00:09:52 - INFO - Encontrados 100 archivos para procesar
+2024-12-18 00:09:52 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-18 00:09:52 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-18 00:10:01 - INFO - Generando gráficas comparativas...
+2024-12-18 00:10:06 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:10:06 - INFO - Procesamiento completado para DatosGestionTribunales-001.xlsx
+2024-12-18 00:10:06 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-18 00:10:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-18 00:18:49 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241217-235100
+2024-12-18 00:18:49 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241217-235100\results
+2024-12-18 00:18:49 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-18 00:18:49 - INFO - Encontrados 100 archivos para procesar
+2024-12-18 00:18:49 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-18 00:18:49 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-18 00:19:16 - INFO - Generando gráficas comparativas...
+2024-12-18 00:19:21 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:19:21 - INFO - Procesamiento completado para DatosGestionTribunales-001.xlsx
+2024-12-18 00:19:21 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-18 00:19:21 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-18 00:19:32 - INFO - Generando gráficas comparativas...
+2024-12-18 00:19:38 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:19:38 - INFO - Procesamiento completado para DatosGestionTribunales-002.xlsx
+2024-12-18 00:19:38 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-18 00:19:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-18 00:19:46 - INFO - Generando gráficas comparativas...
+2024-12-18 00:19:51 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:19:51 - INFO - Procesamiento completado para DatosGestionTribunales-003.xlsx
+2024-12-18 00:19:51 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-18 00:19:51 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-18 00:20:08 - INFO - Generando gráficas comparativas...
+2024-12-18 00:20:13 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:20:13 - INFO - Procesamiento completado para DatosGestionTribunales-004.xlsx
+2024-12-18 00:20:13 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-18 00:20:13 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-18 00:20:36 - INFO - Generando gráficas comparativas...
+2024-12-18 00:20:41 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:20:41 - INFO - Procesamiento completado para DatosGestionTribunales-005.xlsx
+2024-12-18 00:20:41 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-18 00:20:41 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-18 00:21:30 - INFO - Generando gráficas comparativas...
+2024-12-18 00:21:35 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:21:35 - INFO - Procesamiento completado para DatosGestionTribunales-006.xlsx
+2024-12-18 00:21:35 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-18 00:21:35 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-18 00:26:10 - INFO - Generando gráficas comparativas...
+2024-12-18 00:26:15 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:26:15 - INFO - Procesamiento completado para DatosGestionTribunales-007.xlsx
+2024-12-18 00:26:15 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-18 00:26:15 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-18 00:33:03 - INFO - Generando gráficas comparativas...
+2024-12-18 00:33:07 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:33:07 - INFO - Procesamiento completado para DatosGestionTribunales-008.xlsx
+2024-12-18 00:33:07 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-18 00:33:07 - INFO - Ejecutando algoritmos para DatosGestionTribunales-009.xlsx
+2024-12-18 00:35:34 - INFO - Generando gráficas comparativas...
+2024-12-18 00:35:39 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:35:39 - INFO - Procesamiento completado para DatosGestionTribunales-009.xlsx
+2024-12-18 00:35:39 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-18 00:35:39 - INFO - Ejecutando algoritmos para DatosGestionTribunales-010.xlsx
+2024-12-18 00:38:52 - INFO - Generando gráficas comparativas...
+2024-12-18 00:38:56 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:38:56 - INFO - Procesamiento completado para DatosGestionTribunales-010.xlsx
+2024-12-18 00:38:56 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-18 00:38:56 - INFO - Ejecutando algoritmos para DatosGestionTribunales-011.xlsx
+2024-12-18 00:43:33 - INFO - Generando gráficas comparativas...
+2024-12-18 00:43:38 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:43:38 - INFO - Procesamiento completado para DatosGestionTribunales-011.xlsx
+2024-12-18 00:43:38 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-18 00:43:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-012.xlsx
+2024-12-18 00:48:45 - INFO - Generando gráficas comparativas...
+2024-12-18 00:48:50 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:48:50 - INFO - Procesamiento completado para DatosGestionTribunales-012.xlsx
+2024-12-18 00:48:50 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-18 00:48:50 - INFO - Ejecutando algoritmos para DatosGestionTribunales-013.xlsx
+2024-12-18 00:54:39 - INFO - Generando gráficas comparativas...
+2024-12-18 00:54:44 - INFO - Gráficas generadas exitosamente
+2024-12-18 00:54:44 - INFO - Procesamiento completado para DatosGestionTribunales-013.xlsx
+2024-12-18 00:54:44 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-18 00:54:44 - INFO - Ejecutando algoritmos para DatosGestionTribunales-014.xlsx
+2024-12-18 01:09:14 - INFO - Generando gráficas comparativas...
+2024-12-18 01:09:19 - INFO - Gráficas generadas exitosamente
+2024-12-18 01:09:19 - INFO - Procesamiento completado para DatosGestionTribunales-014.xlsx
+2024-12-18 01:09:19 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-18 01:09:19 - INFO - Ejecutando algoritmos para DatosGestionTribunales-015.xlsx
+2024-12-18 07:44:35 - ERROR - Error ejecutando algoritmos: No se pudo generar una memoria inicial válida
+2024-12-18 07:44:35 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-18 07:44:35 - INFO - Ejecutando algoritmos para DatosGestionTribunales-016.xlsx
+2024-12-18 07:45:14 - ERROR - Error ejecutando algoritmos: No se pudo generar una población inicial válida
+2024-12-18 07:45:14 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-18 07:45:14 - INFO - Ejecutando algoritmos para DatosGestionTribunales-017.xlsx

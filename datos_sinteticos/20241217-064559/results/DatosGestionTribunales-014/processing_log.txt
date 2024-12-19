@@ -1,0 +1,18 @@
+=== Información del Escenario Original ===
+Información no disponible
+
+=== Ejecución de Algoritmos ===
+
+Métricas Algoritmo Genético:
+tiempo_ejecucion: 29.615578651428223
+fitness_final: 62.0
+generaciones: 21
+mejor_fitness: 62.0
+fitness_promedio: 62.0
+
+Métricas Harmony Search:
+tiempo_ejecucion: 56.70420217514038
+fitness_final: 62.0
+generaciones: 52
+mejor_fitness: 62.0
+fitness_promedio: 62.0

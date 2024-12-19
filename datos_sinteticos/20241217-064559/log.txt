@@ -1,0 +1,1908 @@
+2024-12-17 06:45:59 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241217-064559
+2024-12-17 06:45:59 - INFO - Comenzando generación de escenarios
+2024-12-17 06:45:59 - INFO - 
+Escenario 1:
+2024-12-17 06:45:59 - INFO - Estudiantes: 5
+2024-12-17 06:45:59 - INFO - Profesores: 5
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 1
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 16
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 5
+2024-12-17 06:45:59 - INFO - 
+Escenario 2:
+2024-12-17 06:45:59 - INFO - Estudiantes: 7
+2024-12-17 06:45:59 - INFO - Profesores: 5
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 1
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 16
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 7
+2024-12-17 06:45:59 - INFO - 
+Escenario 3:
+2024-12-17 06:45:59 - INFO - Estudiantes: 9
+2024-12-17 06:45:59 - INFO - Profesores: 5
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 1
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 16
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 9
+2024-12-17 06:45:59 - INFO - 
+Escenario 4:
+2024-12-17 06:45:59 - INFO - Estudiantes: 11
+2024-12-17 06:45:59 - INFO - Profesores: 5
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 1
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 16
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 11
+2024-12-17 06:45:59 - INFO - 
+Escenario 5:
+2024-12-17 06:45:59 - INFO - Estudiantes: 13
+2024-12-17 06:45:59 - INFO - Profesores: 6
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 1
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 16
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 13
+2024-12-17 06:45:59 - INFO - 
+Escenario 6:
+2024-12-17 06:45:59 - INFO - Estudiantes: 15
+2024-12-17 06:45:59 - INFO - Profesores: 7
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 1
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 16
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 15
+2024-12-17 06:45:59 - INFO - 
+Escenario 7:
+2024-12-17 06:45:59 - INFO - Estudiantes: 17
+2024-12-17 06:45:59 - INFO - Profesores: 8
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 17
+2024-12-17 06:45:59 - INFO - 
+Escenario 8:
+2024-12-17 06:45:59 - INFO - Estudiantes: 19
+2024-12-17 06:45:59 - INFO - Profesores: 9
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 19
+2024-12-17 06:45:59 - INFO - 
+Escenario 9:
+2024-12-17 06:45:59 - INFO - Estudiantes: 21
+2024-12-17 06:45:59 - INFO - Profesores: 10
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 21
+2024-12-17 06:45:59 - INFO - 
+Escenario 10:
+2024-12-17 06:45:59 - INFO - Estudiantes: 23
+2024-12-17 06:45:59 - INFO - Profesores: 11
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 23
+2024-12-17 06:45:59 - INFO - 
+Escenario 11:
+2024-12-17 06:45:59 - INFO - Estudiantes: 25
+2024-12-17 06:45:59 - INFO - Profesores: 12
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 25
+2024-12-17 06:45:59 - INFO - 
+Escenario 12:
+2024-12-17 06:45:59 - INFO - Estudiantes: 27
+2024-12-17 06:45:59 - INFO - Profesores: 13
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 27
+2024-12-17 06:45:59 - INFO - 
+Escenario 13:
+2024-12-17 06:45:59 - INFO - Estudiantes: 29
+2024-12-17 06:45:59 - INFO - Profesores: 14
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 29
+2024-12-17 06:45:59 - INFO - 
+Escenario 14:
+2024-12-17 06:45:59 - INFO - Estudiantes: 31
+2024-12-17 06:45:59 - INFO - Profesores: 15
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 2
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 32
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 31
+2024-12-17 06:45:59 - INFO - 
+Escenario 15:
+2024-12-17 06:45:59 - INFO - Estudiantes: 33
+2024-12-17 06:45:59 - INFO - Profesores: 16
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 33
+2024-12-17 06:45:59 - INFO - 
+Escenario 16:
+2024-12-17 06:45:59 - INFO - Estudiantes: 35
+2024-12-17 06:45:59 - INFO - Profesores: 17
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 35
+2024-12-17 06:45:59 - INFO - 
+Escenario 17:
+2024-12-17 06:45:59 - INFO - Estudiantes: 37
+2024-12-17 06:45:59 - INFO - Profesores: 18
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 37
+2024-12-17 06:45:59 - INFO - 
+Escenario 18:
+2024-12-17 06:45:59 - INFO - Estudiantes: 39
+2024-12-17 06:45:59 - INFO - Profesores: 19
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 39
+2024-12-17 06:45:59 - INFO - 
+Escenario 19:
+2024-12-17 06:45:59 - INFO - Estudiantes: 41
+2024-12-17 06:45:59 - INFO - Profesores: 20
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 41
+2024-12-17 06:45:59 - INFO - 
+Escenario 20:
+2024-12-17 06:45:59 - INFO - Estudiantes: 43
+2024-12-17 06:45:59 - INFO - Profesores: 21
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 43
+2024-12-17 06:45:59 - INFO - 
+Escenario 21:
+2024-12-17 06:45:59 - INFO - Estudiantes: 45
+2024-12-17 06:45:59 - INFO - Profesores: 22
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 45
+2024-12-17 06:45:59 - INFO - 
+Escenario 22:
+2024-12-17 06:45:59 - INFO - Estudiantes: 47
+2024-12-17 06:45:59 - INFO - Profesores: 23
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 48
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 47
+2024-12-17 06:45:59 - INFO - 
+Escenario 23:
+2024-12-17 06:45:59 - INFO - Estudiantes: 49
+2024-12-17 06:45:59 - INFO - Profesores: 24
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 49
+2024-12-17 06:45:59 - INFO - 
+Escenario 24:
+2024-12-17 06:45:59 - INFO - Estudiantes: 51
+2024-12-17 06:45:59 - INFO - Profesores: 25
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 51
+2024-12-17 06:45:59 - INFO - 
+Escenario 25:
+2024-12-17 06:45:59 - INFO - Estudiantes: 53
+2024-12-17 06:45:59 - INFO - Profesores: 26
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 53
+2024-12-17 06:45:59 - INFO - 
+Escenario 26:
+2024-12-17 06:45:59 - INFO - Estudiantes: 55
+2024-12-17 06:45:59 - INFO - Profesores: 27
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 55
+2024-12-17 06:45:59 - INFO - 
+Escenario 27:
+2024-12-17 06:45:59 - INFO - Estudiantes: 57
+2024-12-17 06:45:59 - INFO - Profesores: 28
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 57
+2024-12-17 06:45:59 - INFO - 
+Escenario 28:
+2024-12-17 06:45:59 - INFO - Estudiantes: 59
+2024-12-17 06:45:59 - INFO - Profesores: 29
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 59
+2024-12-17 06:45:59 - INFO - 
+Escenario 29:
+2024-12-17 06:45:59 - INFO - Estudiantes: 61
+2024-12-17 06:45:59 - INFO - Profesores: 30
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 61
+2024-12-17 06:45:59 - INFO - 
+Escenario 30:
+2024-12-17 06:45:59 - INFO - Estudiantes: 63
+2024-12-17 06:45:59 - INFO - Profesores: 31
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 64
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 63
+2024-12-17 06:45:59 - INFO - 
+Escenario 31:
+2024-12-17 06:45:59 - INFO - Estudiantes: 65
+2024-12-17 06:45:59 - INFO - Profesores: 32
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 80
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 65
+2024-12-17 06:45:59 - INFO - 
+Escenario 32:
+2024-12-17 06:45:59 - INFO - Estudiantes: 67
+2024-12-17 06:45:59 - INFO - Profesores: 33
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 80
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 67
+2024-12-17 06:45:59 - INFO - 
+Escenario 33:
+2024-12-17 06:45:59 - INFO - Estudiantes: 69
+2024-12-17 06:45:59 - INFO - Profesores: 34
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 80
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 69
+2024-12-17 06:45:59 - INFO - 
+Escenario 34:
+2024-12-17 06:45:59 - INFO - Estudiantes: 71
+2024-12-17 06:45:59 - INFO - Profesores: 35
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 80
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 71
+2024-12-17 06:45:59 - INFO - 
+Escenario 35:
+2024-12-17 06:45:59 - INFO - Estudiantes: 73
+2024-12-17 06:45:59 - INFO - Profesores: 36
+2024-12-17 06:45:59 - INFO - Edificios: 1
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 80
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 73
+2024-12-17 06:45:59 - INFO - 
+Escenario 36:
+2024-12-17 06:45:59 - INFO - Estudiantes: 75
+2024-12-17 06:45:59 - INFO - Profesores: 37
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 75
+2024-12-17 06:45:59 - INFO - 
+Escenario 37:
+2024-12-17 06:45:59 - INFO - Estudiantes: 77
+2024-12-17 06:45:59 - INFO - Profesores: 38
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 77
+2024-12-17 06:45:59 - INFO - 
+Escenario 38:
+2024-12-17 06:45:59 - INFO - Estudiantes: 79
+2024-12-17 06:45:59 - INFO - Profesores: 39
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 79
+2024-12-17 06:45:59 - INFO - 
+Escenario 39:
+2024-12-17 06:45:59 - INFO - Estudiantes: 81
+2024-12-17 06:45:59 - INFO - Profesores: 40
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 81
+2024-12-17 06:45:59 - INFO - 
+Escenario 40:
+2024-12-17 06:45:59 - INFO - Estudiantes: 83
+2024-12-17 06:45:59 - INFO - Profesores: 41
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 83
+2024-12-17 06:45:59 - INFO - 
+Escenario 41:
+2024-12-17 06:45:59 - INFO - Estudiantes: 85
+2024-12-17 06:45:59 - INFO - Profesores: 42
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 85
+2024-12-17 06:45:59 - INFO - 
+Escenario 42:
+2024-12-17 06:45:59 - INFO - Estudiantes: 87
+2024-12-17 06:45:59 - INFO - Profesores: 43
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 87
+2024-12-17 06:45:59 - INFO - 
+Escenario 43:
+2024-12-17 06:45:59 - INFO - Estudiantes: 89
+2024-12-17 06:45:59 - INFO - Profesores: 44
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 89
+2024-12-17 06:45:59 - INFO - 
+Escenario 44:
+2024-12-17 06:45:59 - INFO - Estudiantes: 91
+2024-12-17 06:45:59 - INFO - Profesores: 45
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 91
+2024-12-17 06:45:59 - INFO - 
+Escenario 45:
+2024-12-17 06:45:59 - INFO - Estudiantes: 93
+2024-12-17 06:45:59 - INFO - Profesores: 46
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 93
+2024-12-17 06:45:59 - INFO - 
+Escenario 46:
+2024-12-17 06:45:59 - INFO - Estudiantes: 95
+2024-12-17 06:45:59 - INFO - Profesores: 47
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 3
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 96
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 95
+2024-12-17 06:45:59 - INFO - 
+Escenario 47:
+2024-12-17 06:45:59 - INFO - Estudiantes: 97
+2024-12-17 06:45:59 - INFO - Profesores: 48
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 97
+2024-12-17 06:45:59 - INFO - 
+Escenario 48:
+2024-12-17 06:45:59 - INFO - Estudiantes: 99
+2024-12-17 06:45:59 - INFO - Profesores: 49
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 99
+2024-12-17 06:45:59 - INFO - 
+Escenario 49:
+2024-12-17 06:45:59 - INFO - Estudiantes: 101
+2024-12-17 06:45:59 - INFO - Profesores: 50
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 101
+2024-12-17 06:45:59 - INFO - 
+Escenario 50:
+2024-12-17 06:45:59 - INFO - Estudiantes: 103
+2024-12-17 06:45:59 - INFO - Profesores: 51
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 103
+
+Escenario 1:
+Estudiantes: 5
+Profesores: 5
+Edificios: 1
+Aulas por edificio: 1
+Slots por día: 16
+Total slots disponibles: 16
+Slots mínimos necesarios: 5
+
+Escenario 2:
+Estudiantes: 7
+Profesores: 5
+Edificios: 1
+Aulas por edificio: 1
+Slots por día: 16
+Total slots disponibles: 16
+Slots mínimos necesarios: 7
+
+Escenario 3:
+Estudiantes: 9
+Profesores: 5
+Edificios: 1
+Aulas por edificio: 1
+Slots por día: 16
+Total slots disponibles: 16
+Slots mínimos necesarios: 9
+
+Escenario 4:
+Estudiantes: 11
+Profesores: 5
+Edificios: 1
+Aulas por edificio: 1
+Slots por día: 16
+Total slots disponibles: 16
+Slots mínimos necesarios: 11
+
+Escenario 5:
+Estudiantes: 13
+Profesores: 6
+Edificios: 1
+Aulas por edificio: 1
+Slots por día: 16
+Total slots disponibles: 16
+Slots mínimos necesarios: 13
+
+Escenario 6:
+Estudiantes: 15
+Profesores: 7
+Edificios: 1
+Aulas por edificio: 1
+Slots por día: 16
+Total slots disponibles: 16
+Slots mínimos necesarios: 15
+
+Escenario 7:
+Estudiantes: 17
+Profesores: 8
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 17
+
+Escenario 8:
+Estudiantes: 19
+Profesores: 9
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 19
+
+Escenario 9:
+Estudiantes: 21
+Profesores: 10
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 21
+
+Escenario 10:
+Estudiantes: 23
+Profesores: 11
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 23
+
+Escenario 11:
+Estudiantes: 25
+Profesores: 12
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 25
+
+Escenario 12:
+Estudiantes: 27
+Profesores: 13
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 27
+
+Escenario 13:
+Estudiantes: 29
+Profesores: 14
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 29
+
+Escenario 14:
+Estudiantes: 31
+Profesores: 15
+Edificios: 1
+Aulas por edificio: 2
+Slots por día: 16
+Total slots disponibles: 32
+Slots mínimos necesarios: 31
+
+Escenario 15:
+Estudiantes: 33
+Profesores: 16
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 33
+
+Escenario 16:
+Estudiantes: 35
+Profesores: 17
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 35
+
+Escenario 17:
+Estudiantes: 37
+Profesores: 18
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 37
+
+Escenario 18:
+Estudiantes: 39
+Profesores: 19
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 39
+
+Escenario 19:
+Estudiantes: 41
+Profesores: 20
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 41
+
+Escenario 20:
+Estudiantes: 43
+Profesores: 21
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 43
+
+Escenario 21:
+Estudiantes: 45
+Profesores: 22
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 45
+
+Escenario 22:
+Estudiantes: 47
+Profesores: 23
+Edificios: 1
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 48
+Slots mínimos necesarios: 47
+
+Escenario 23:
+Estudiantes: 49
+Profesores: 24
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 49
+
+Escenario 24:
+Estudiantes: 51
+Profesores: 25
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 51
+
+Escenario 25:
+Estudiantes: 53
+Profesores: 26
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 53
+
+Escenario 26:
+Estudiantes: 55
+Profesores: 27
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 55
+
+Escenario 27:
+Estudiantes: 57
+Profesores: 28
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 57
+
+Escenario 28:
+Estudiantes: 59
+Profesores: 29
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 59
+
+Escenario 29:
+Estudiantes: 61
+Profesores: 30
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 61
+
+Escenario 30:
+Estudiantes: 63
+Profesores: 31
+Edificios: 1
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 64
+Slots mínimos necesarios: 63
+
+Escenario 31:
+Estudiantes: 65
+Profesores: 32
+Edificios: 1
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 80
+Slots mínimos necesarios: 65
+
+Escenario 32:
+Estudiantes: 67
+Profesores: 33
+Edificios: 1
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 80
+Slots mínimos necesarios: 67
+
+Escenario 33:
+Estudiantes: 69
+Profesores: 34
+Edificios: 1
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 80
+Slots mínimos necesarios: 69
+
+Escenario 34:
+Estudiantes: 71
+Profesores: 35
+Edificios: 1
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 80
+Slots mínimos necesarios: 71
+
+Escenario 35:
+Estudiantes: 73
+Profesores: 36
+Edificios: 1
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 80
+Slots mínimos necesarios: 73
+
+Escenario 36:
+Estudiantes: 75
+Profesores: 37
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 75
+
+Escenario 37:
+Estudiantes: 77
+Profesores: 38
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 77
+
+Escenario 38:
+Estudiantes: 79
+Profesores: 39
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 79
+
+Escenario 39:
+Estudiantes: 81
+Profesores: 40
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 81
+
+Escenario 40:
+Estudiantes: 83
+Profesores: 41
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 83
+
+Escenario 41:
+Estudiantes: 85
+Profesores: 42
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 85
+
+Escenario 42:
+Estudiantes: 87
+Profesores: 43
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 87
+
+Escenario 43:
+Estudiantes: 89
+Profesores: 44
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 89
+
+Escenario 44:
+Estudiantes: 91
+Profesores: 45
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 91
+
+Escenario 45:
+Estudiantes: 93
+Profesores: 46
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 93
+
+Escenario 46:
+Estudiantes: 95
+Profesores: 47
+Edificios: 2
+Aulas por edificio: 3
+Slots por día: 16
+Total slots disponibles: 96
+Slots mínimos necesarios: 95
+
+Escenario 47:
+Estudiantes: 97
+Profesores: 48
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 97
+
+Escenario 48:
+Estudiantes: 99
+Profesores: 49
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 99
+
+Escenario 49:
+Estudiantes: 101
+Profesores: 50
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 101
+
+Escenario 50:
+Estudiantes: 103
+Profesores: 51
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 1282024-12-17 06:45:59 - INFO - 
+Escenario 51:
+2024-12-17 06:45:59 - INFO - Estudiantes: 105
+2024-12-17 06:45:59 - INFO - Profesores: 52
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 105
+2024-12-17 06:45:59 - INFO - 
+Escenario 52:
+2024-12-17 06:45:59 - INFO - Estudiantes: 107
+2024-12-17 06:45:59 - INFO - Profesores: 53
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 107
+2024-12-17 06:45:59 - INFO - 
+Escenario 53:
+2024-12-17 06:45:59 - INFO - Estudiantes: 109
+2024-12-17 06:45:59 - INFO - Profesores: 54
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 109
+2024-12-17 06:45:59 - INFO - 
+Escenario 54:
+2024-12-17 06:45:59 - INFO - Estudiantes: 111
+2024-12-17 06:45:59 - INFO - Profesores: 55
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 111
+2024-12-17 06:45:59 - INFO - 
+Escenario 55:
+2024-12-17 06:45:59 - INFO - Estudiantes: 113
+2024-12-17 06:45:59 - INFO - Profesores: 56
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 113
+2024-12-17 06:45:59 - INFO - 
+Escenario 56:
+2024-12-17 06:45:59 - INFO - Estudiantes: 115
+2024-12-17 06:45:59 - INFO - Profesores: 57
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 115
+2024-12-17 06:45:59 - INFO - 
+Escenario 57:
+2024-12-17 06:45:59 - INFO - Estudiantes: 117
+2024-12-17 06:45:59 - INFO - Profesores: 58
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 117
+2024-12-17 06:45:59 - INFO - 
+Escenario 58:
+2024-12-17 06:45:59 - INFO - Estudiantes: 119
+2024-12-17 06:45:59 - INFO - Profesores: 59
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 119
+2024-12-17 06:45:59 - INFO - 
+Escenario 59:
+2024-12-17 06:45:59 - INFO - Estudiantes: 121
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 121
+2024-12-17 06:45:59 - INFO - 
+Escenario 60:
+2024-12-17 06:45:59 - INFO - Estudiantes: 123
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 123
+2024-12-17 06:45:59 - INFO - 
+Escenario 61:
+2024-12-17 06:45:59 - INFO - Estudiantes: 125
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 125
+2024-12-17 06:45:59 - INFO - 
+Escenario 62:
+2024-12-17 06:45:59 - INFO - Estudiantes: 127
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 128
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 127
+2024-12-17 06:45:59 - INFO - 
+Escenario 63:
+2024-12-17 06:45:59 - INFO - Estudiantes: 129
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 129
+2024-12-17 06:45:59 - INFO - 
+Escenario 64:
+2024-12-17 06:45:59 - INFO - Estudiantes: 131
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 131
+2024-12-17 06:45:59 - INFO - 
+Escenario 65:
+2024-12-17 06:45:59 - INFO - Estudiantes: 133
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 133
+2024-12-17 06:45:59 - INFO - 
+Escenario 66:
+2024-12-17 06:45:59 - INFO - Estudiantes: 135
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 135
+2024-12-17 06:45:59 - INFO - 
+Escenario 67:
+2024-12-17 06:45:59 - INFO - Estudiantes: 137
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 137
+2024-12-17 06:45:59 - INFO - 
+Escenario 68:
+2024-12-17 06:45:59 - INFO - Estudiantes: 139
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 139
+2024-12-17 06:45:59 - INFO - 
+Escenario 69:
+2024-12-17 06:45:59 - INFO - Estudiantes: 141
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 141
+2024-12-17 06:45:59 - INFO - 
+Escenario 70:
+2024-12-17 06:45:59 - INFO - Estudiantes: 143
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 2
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 160
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 143
+2024-12-17 06:45:59 - INFO - 
+Escenario 71:
+2024-12-17 06:45:59 - INFO - Estudiantes: 145
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 145
+2024-12-17 06:45:59 - INFO - 
+Escenario 72:
+2024-12-17 06:45:59 - INFO - Estudiantes: 147
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 147
+2024-12-17 06:45:59 - INFO - 
+Escenario 73:
+2024-12-17 06:45:59 - INFO - Estudiantes: 149
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 149
+2024-12-17 06:45:59 - INFO - 
+Escenario 74:
+2024-12-17 06:45:59 - INFO - Estudiantes: 151
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 151
+2024-12-17 06:45:59 - INFO - 
+Escenario 75:
+2024-12-17 06:45:59 - INFO - Estudiantes: 153
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 153
+2024-12-17 06:45:59 - INFO - 
+Escenario 76:
+2024-12-17 06:45:59 - INFO - Estudiantes: 155
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 155
+2024-12-17 06:45:59 - INFO - 
+Escenario 77:
+2024-12-17 06:45:59 - INFO - Estudiantes: 157
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 157
+2024-12-17 06:45:59 - INFO - 
+Escenario 78:
+2024-12-17 06:45:59 - INFO - Estudiantes: 159
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 159
+2024-12-17 06:45:59 - INFO - 
+Escenario 79:
+2024-12-17 06:45:59 - INFO - Estudiantes: 161
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 161
+2024-12-17 06:45:59 - INFO - 
+Escenario 80:
+2024-12-17 06:45:59 - INFO - Estudiantes: 163
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 163
+2024-12-17 06:45:59 - INFO - 
+Escenario 81:
+2024-12-17 06:45:59 - INFO - Estudiantes: 165
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 165
+2024-12-17 06:45:59 - INFO - 
+Escenario 82:
+2024-12-17 06:45:59 - INFO - Estudiantes: 167
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 167
+2024-12-17 06:45:59 - INFO - 
+Escenario 83:
+2024-12-17 06:45:59 - INFO - Estudiantes: 169
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 169
+2024-12-17 06:45:59 - INFO - 
+Escenario 84:
+2024-12-17 06:45:59 - INFO - Estudiantes: 171
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 171
+2024-12-17 06:45:59 - INFO - 
+Escenario 85:
+2024-12-17 06:45:59 - INFO - Estudiantes: 173
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 173
+2024-12-17 06:45:59 - INFO - 
+Escenario 86:
+2024-12-17 06:45:59 - INFO - Estudiantes: 175
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 175
+2024-12-17 06:45:59 - INFO - 
+Escenario 87:
+2024-12-17 06:45:59 - INFO - Estudiantes: 177
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 177
+2024-12-17 06:45:59 - INFO - 
+Escenario 88:
+2024-12-17 06:45:59 - INFO - Estudiantes: 179
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 179
+2024-12-17 06:45:59 - INFO - 
+Escenario 89:
+2024-12-17 06:45:59 - INFO - Estudiantes: 181
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 181
+2024-12-17 06:45:59 - INFO - 
+Escenario 90:
+2024-12-17 06:45:59 - INFO - Estudiantes: 183
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 183
+2024-12-17 06:45:59 - INFO - 
+Escenario 91:
+2024-12-17 06:45:59 - INFO - Estudiantes: 185
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 185
+2024-12-17 06:45:59 - INFO - 
+Escenario 92:
+2024-12-17 06:45:59 - INFO - Estudiantes: 187
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 187
+2024-12-17 06:45:59 - INFO - 
+Escenario 93:
+2024-12-17 06:45:59 - INFO - Estudiantes: 189
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 189
+2024-12-17 06:45:59 - INFO - 
+Escenario 94:
+2024-12-17 06:45:59 - INFO - Estudiantes: 191
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 4
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 192
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 191
+2024-12-17 06:45:59 - INFO - 
+Escenario 95:
+2024-12-17 06:45:59 - INFO - Estudiantes: 193
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 240
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 193
+2024-12-17 06:45:59 - INFO - 
+Escenario 96:
+2024-12-17 06:45:59 - INFO - Estudiantes: 195
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 240
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 195
+2024-12-17 06:45:59 - INFO - 
+Escenario 97:
+2024-12-17 06:45:59 - INFO - Estudiantes: 197
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 240
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 197
+2024-12-17 06:45:59 - INFO - 
+Escenario 98:
+2024-12-17 06:45:59 - INFO - Estudiantes: 199
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 240
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 199
+2024-12-17 06:45:59 - INFO - 
+Escenario 99:
+2024-12-17 06:45:59 - INFO - Estudiantes: 200
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 240
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 200
+
+Slots mínimos necesarios: 103
+
+Escenario 51:
+Estudiantes: 105
+Profesores: 52
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 105
+
+Escenario 52:
+Estudiantes: 107
+Profesores: 53
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 107
+
+Escenario 53:
+Estudiantes: 109
+Profesores: 54
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 109
+
+Escenario 54:
+Estudiantes: 111
+Profesores: 55
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 111
+
+Escenario 55:
+Estudiantes: 113
+Profesores: 56
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 113
+
+Escenario 56:
+Estudiantes: 115
+Profesores: 57
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 115
+
+Escenario 57:
+Estudiantes: 117
+Profesores: 58
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 117
+
+Escenario 58:
+Estudiantes: 119
+Profesores: 59
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 119
+
+Escenario 59:
+Estudiantes: 121
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 121
+
+Escenario 60:
+Estudiantes: 123
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 123
+
+Escenario 61:
+Estudiantes: 125
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 125
+
+Escenario 62:
+Estudiantes: 127
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 128
+Slots mínimos necesarios: 127
+
+Escenario 63:
+Estudiantes: 129
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 129
+
+Escenario 64:
+Estudiantes: 131
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 131
+
+Escenario 65:
+Estudiantes: 133
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 133
+
+Escenario 66:
+Estudiantes: 135
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 135
+
+Escenario 67:
+Estudiantes: 137
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 137
+
+Escenario 68:
+Estudiantes: 139
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 139
+
+Escenario 69:
+Estudiantes: 141
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 141
+
+Escenario 70:
+Estudiantes: 143
+Profesores: 60
+Edificios: 2
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 160
+Slots mínimos necesarios: 143
+
+Escenario 71:
+Estudiantes: 145
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 145
+
+Escenario 72:
+Estudiantes: 147
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 147
+
+Escenario 73:
+Estudiantes: 149
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 149
+
+Escenario 74:
+Estudiantes: 151
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 151
+
+Escenario 75:
+Estudiantes: 153
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 153
+
+Escenario 76:
+Estudiantes: 155
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 155
+
+Escenario 77:
+Estudiantes: 157
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 157
+
+Escenario 78:
+Estudiantes: 159
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 159
+
+Escenario 79:
+Estudiantes: 161
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 161
+
+Escenario 80:
+Estudiantes: 163
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 163
+
+Escenario 81:
+Estudiantes: 165
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 165
+
+Escenario 82:
+Estudiantes: 167
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 167
+
+Escenario 83:
+Estudiantes: 169
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 169
+
+Escenario 84:
+Estudiantes: 171
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 171
+
+Escenario 85:
+Estudiantes: 173
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 173
+
+Escenario 86:
+Estudiantes: 175
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 175
+
+Escenario 87:
+Estudiantes: 177
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 177
+
+Escenario 88:
+Estudiantes: 179
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 179
+
+Escenario 89:
+Estudiantes: 181
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 181
+
+Escenario 90:
+Estudiantes: 183
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 183
+
+Escenario 91:
+Estudiantes: 185
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 185
+
+Escenario 92:
+Estudiantes: 187
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 187
+
+Escenario 93:
+Estudiantes: 189
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 189
+
+Escenario 94:
+Estudiantes: 191
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 4
+Slots por día: 16
+Total slots disponibles: 192
+Slots mínimos necesarios: 191
+
+Escenario 95:
+Estudiantes: 193
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 240
+Slots mínimos necesarios: 193
+
+Escenario 96:
+Estudiantes: 195
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 240
+Slots mínimos necesarios: 195
+
+Escenario 97:
+Estudiantes: 197
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 240
+Slots mínimos necesarios: 197
+
+Escenario 98:
+Estudiantes: 199
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 240
+Slots mínimos necesarios: 199
+
+Escenario 99:
+Estudiantes: 200
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 5
+Slots por día: 162024-12-17 06:45:59 - INFO - 
+Escenario 100:
+2024-12-17 06:45:59 - INFO - Estudiantes: 200
+2024-12-17 06:45:59 - INFO - Profesores: 60
+2024-12-17 06:45:59 - INFO - Edificios: 3
+2024-12-17 06:45:59 - INFO - Aulas por edificio: 5
+2024-12-17 06:45:59 - INFO - Slots por día: 16
+2024-12-17 06:45:59 - INFO - Total slots disponibles: 240
+2024-12-17 06:45:59 - INFO - Slots mínimos necesarios: 200
+2024-12-17 06:45:59 - INFO - Generado archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-17 06:45:59 - INFO - Generado archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-17 06:45:59 - INFO - Generado archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-17 06:45:59 - INFO - Generado archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-17 06:46:00 - INFO - Generado archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-17 06:46:01 - INFO - Generado archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-17 06:46:02 - INFO - Generado archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-17 06:46:02 - INFO - Generado archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-17 06:46:02 - INFO - Generado archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-17 06:46:02 - INFO - Generado archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-17 06:46:02 - INFO - Generado archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-17 06:46:02 - INFO - Generado archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-17 06:46:03 - INFO - Generado archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-17 06:46:03 - INFO - Generado archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-17 06:46:03 - INFO - Generado archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-17 06:46:03 - INFO - Generado archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-17 06:46:03 - INFO - Generado archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-17 06:46:04 - INFO - Generado archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-17 06:46:04 - INFO - Generado archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-17 06:46:04 - INFO - Generado archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-17 06:46:05 - INFO - Generado archivo 39/100: DatosGestionTribunales-039.xlsx
+2024-12-17 06:46:05 - INFO - Generado archivo 40/100: DatosGestionTribunales-040.xlsx
+2024-12-17 06:46:05 - INFO - Generado archivo 41/100: DatosGestionTribunales-041.xlsx
+2024-12-17 06:46:06 - INFO - Generado archivo 42/100: DatosGestionTribunales-042.xlsx
+2024-12-17 06:46:06 - INFO - Generado archivo 43/100: DatosGestionTribunales-043.xlsx
+2024-12-17 06:46:06 - INFO - Generado archivo 44/100: DatosGestionTribunales-044.xlsx
+2024-12-17 06:46:07 - INFO - Generado archivo 45/100: DatosGestionTribunales-045.xlsx
+2024-12-17 06:46:07 - INFO - Generado archivo 46/100: DatosGestionTribunales-046.xlsx
+2024-12-17 06:46:07 - INFO - Generado archivo 47/100: DatosGestionTribunales-047.xlsx
+2024-12-17 06:46:08 - INFO - Generado archivo 48/100: DatosGestionTribunales-048.xlsx
+2024-12-17 06:46:08 - INFO - Generado archivo 49/100: DatosGestionTribunales-049.xlsx
+2024-12-17 06:46:09 - INFO - Generado archivo 50/100: DatosGestionTribunales-050.xlsx
+2024-12-17 06:46:09 - INFO - Generado archivo 51/100: DatosGestionTribunales-051.xlsx
+2024-12-17 06:46:09 - INFO - Generado archivo 52/100: DatosGestionTribunales-052.xlsx
+2024-12-17 06:46:10 - INFO - Generado archivo 53/100: DatosGestionTribunales-053.xlsx
+2024-12-17 06:46:10 - INFO - Generado archivo 54/100: DatosGestionTribunales-054.xlsx
+2024-12-17 06:46:11 - INFO - Generado archivo 55/100: DatosGestionTribunales-055.xlsx
+2024-12-17 06:46:11 - INFO - Generado archivo 56/100: DatosGestionTribunales-056.xlsx
+2024-12-17 06:46:12 - INFO - Generado archivo 57/100: DatosGestionTribunales-057.xlsx
+2024-12-17 06:46:12 - INFO - Generado archivo 58/100: DatosGestionTribunales-058.xlsx
+2024-12-17 06:46:13 - INFO - Generado archivo 59/100: DatosGestionTribunales-059.xlsx
+2024-12-17 06:46:13 - INFO - Generado archivo 60/100: DatosGestionTribunales-060.xlsx
+2024-12-17 06:46:14 - INFO - Generado archivo 61/100: DatosGestionTribunales-061.xlsx
+2024-12-17 06:46:14 - INFO - Generado archivo 62/100: DatosGestionTribunales-062.xlsx
+2024-12-17 06:46:15 - INFO - Generado archivo 63/100: DatosGestionTribunales-063.xlsx
+2024-12-17 06:46:16 - INFO - Generado archivo 64/100: DatosGestionTribunales-064.xlsx
+2024-12-17 06:46:16 - INFO - Generado archivo 65/100: DatosGestionTribunales-065.xlsx
+2024-12-17 06:46:17 - INFO - Generado archivo 66/100: DatosGestionTribunales-066.xlsx
+2024-12-17 06:46:18 - INFO - Generado archivo 67/100: DatosGestionTribunales-067.xlsx
+2024-12-17 06:46:18 - INFO - Generado archivo 68/100: DatosGestionTribunales-068.xlsx
+2024-12-17 06:46:19 - INFO - Generado archivo 69/100: DatosGestionTribunales-069.xlsx
+2024-12-17 06:46:19 - INFO - Generado archivo 70/100: DatosGestionTribunales-070.xlsx
+2024-12-17 06:46:20 - INFO - Generado archivo 71/100: DatosGestionTribunales-071.xlsx
+2024-12-17 06:46:21 - INFO - Generado archivo 72/100: DatosGestionTribunales-072.xlsx
+2024-12-17 06:46:22 - INFO - Generado archivo 73/100: DatosGestionTribunales-073.xlsx
+2024-12-17 06:46:23 - INFO - Generado archivo 74/100: DatosGestionTribunales-074.xlsx
+2024-12-17 06:46:23 - INFO - Generado archivo 75/100: DatosGestionTribunales-075.xlsx
+2024-12-17 06:46:24 - INFO - Generado archivo 76/100: DatosGestionTribunales-076.xlsx
+2024-12-17 06:46:25 - INFO - Generado archivo 77/100: DatosGestionTribunales-077.xlsx
+2024-12-17 06:46:26 - INFO - Generado archivo 78/100: DatosGestionTribunales-078.xlsx
+2024-12-17 06:46:27 - INFO - Generado archivo 79/100: DatosGestionTribunales-079.xlsx
+2024-12-17 06:46:28 - INFO - Generado archivo 80/100: DatosGestionTribunales-080.xlsx
+2024-12-17 06:46:29 - INFO - Generado archivo 81/100: DatosGestionTribunales-081.xlsx
+2024-12-17 06:46:29 - INFO - Generado archivo 82/100: DatosGestionTribunales-082.xlsx
+2024-12-17 06:46:30 - INFO - Generado archivo 83/100: DatosGestionTribunales-083.xlsx
+2024-12-17 06:46:31 - INFO - Generado archivo 84/100: DatosGestionTribunales-084.xlsx
+2024-12-17 06:46:32 - INFO - Generado archivo 85/100: DatosGestionTribunales-085.xlsx
+2024-12-17 06:46:33 - INFO - Generado archivo 86/100: DatosGestionTribunales-086.xlsx
+2024-12-17 06:46:34 - INFO - Generado archivo 87/100: DatosGestionTribunales-087.xlsx
+2024-12-17 06:46:35 - INFO - Generado archivo 88/100: DatosGestionTribunales-088.xlsx
+2024-12-17 06:46:35 - INFO - Generado archivo 89/100: DatosGestionTribunales-089.xlsx
+2024-12-17 06:46:36 - INFO - Generado archivo 90/100: DatosGestionTribunales-090.xlsx
+2024-12-17 06:46:37 - INFO - Generado archivo 91/100: DatosGestionTribunales-091.xlsx
+2024-12-17 06:46:38 - INFO - Generado archivo 92/100: DatosGestionTribunales-092.xlsx
+2024-12-17 06:46:39 - INFO - Generado archivo 93/100: DatosGestionTribunales-093.xlsx
+2024-12-17 06:46:40 - INFO - Generado archivo 94/100: DatosGestionTribunales-094.xlsx
+2024-12-17 06:46:41 - INFO - Generado archivo 95/100: DatosGestionTribunales-095.xlsx
+2024-12-17 06:46:42 - INFO - Generado archivo 96/100: DatosGestionTribunales-096.xlsx
+2024-12-17 06:46:43 - INFO - Generado archivo 97/100: DatosGestionTribunales-097.xlsx
+2024-12-17 06:46:45 - INFO - Generado archivo 98/100: DatosGestionTribunales-098.xlsx
+2024-12-17 06:46:46 - INFO - Generado archivo 99/100: DatosGestionTribunales-099.xlsx
+2024-12-17 06:46:48 - INFO - Generado archivo 100/100: DatosGestionTribunales-100.xlsx
+2024-12-17 06:46:48 - INFO - 
+Archivos generados en: datos_sinteticos\20241217-064559
+2024-12-17 06:46:48 - INFO - Total de archivos generados: 100
+
+Total slots disponibles: 240
+Slots mínimos necesarios: 200
+
+Escenario 100:
+Estudiantes: 200
+Profesores: 60
+Edificios: 3
+Aulas por edificio: 5
+Slots por día: 16
+Total slots disponibles: 240
+Slots mínimos necesarios: 200
+
+Archivos generados en: datos_sinteticos\20241217-064559
+Total de archivos generados: 100

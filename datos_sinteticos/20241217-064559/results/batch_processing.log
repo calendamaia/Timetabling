@@ -1,0 +1,155 @@
+2024-12-17 06:54:08 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241217-064559
+2024-12-17 06:54:08 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241217-064559\results
+2024-12-17 06:54:09 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-17 06:54:09 - INFO - Encontrados 100 archivos para procesar
+2024-12-17 06:54:09 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-17 06:54:09 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-17 06:54:13 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:18 - ERROR - Error procesando DatosGestionTribunales-001.xlsx: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:18 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-17 06:54:18 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-17 06:54:23 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:28 - ERROR - Error procesando DatosGestionTribunales-002.xlsx: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:28 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-17 06:54:28 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-17 06:54:35 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:41 - ERROR - Error procesando DatosGestionTribunales-003.xlsx: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:41 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-17 06:54:41 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-17 06:54:50 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:59 - ERROR - Error procesando DatosGestionTribunales-004.xlsx: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:54:59 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-17 06:54:59 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-17 06:55:08 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:55:18 - ERROR - Error procesando DatosGestionTribunales-005.xlsx: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:55:18 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-17 06:55:18 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-17 06:55:52 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:56:22 - ERROR - Error procesando DatosGestionTribunales-006.xlsx: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:56:22 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-17 06:56:22 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-17 06:56:34 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:56:46 - ERROR - Error procesando DatosGestionTribunales-007.xlsx: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:56:46 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-17 06:56:46 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-17 06:56:58 - ERROR - Error ejecutando algoritmos: 'TimetablingHS' object has no attribute '_get_ordered_students'
+2024-12-17 06:59:12 - INFO - Iniciando procesamiento en: D:\desa\tfm\datos_sinteticos\20241217-064559
+2024-12-17 06:59:12 - INFO - Resultados se guardarán en: D:\desa\tfm\datos_sinteticos\20241217-064559\results
+2024-12-17 06:59:12 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-17 06:59:12 - INFO - Encontrados 100 archivos para procesar
+2024-12-17 06:59:12 - INFO - Procesando archivo 1/100: DatosGestionTribunales-001.xlsx
+2024-12-17 06:59:12 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-17 06:59:24 - INFO - Procesamiento completado para DatosGestionTribunales-001.xlsx
+2024-12-17 06:59:24 - INFO - Procesando archivo 2/100: DatosGestionTribunales-002.xlsx
+2024-12-17 06:59:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-17 06:59:45 - INFO - Procesamiento completado para DatosGestionTribunales-002.xlsx
+2024-12-17 06:59:45 - INFO - Procesando archivo 3/100: DatosGestionTribunales-003.xlsx
+2024-12-17 06:59:45 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-17 07:00:13 - INFO - Procesamiento completado para DatosGestionTribunales-003.xlsx
+2024-12-17 07:00:13 - INFO - Procesando archivo 4/100: DatosGestionTribunales-004.xlsx
+2024-12-17 07:00:13 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-17 07:00:44 - INFO - Procesamiento completado para DatosGestionTribunales-004.xlsx
+2024-12-17 07:00:44 - INFO - Procesando archivo 5/100: DatosGestionTribunales-005.xlsx
+2024-12-17 07:00:44 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-17 07:01:15 - INFO - Procesamiento completado para DatosGestionTribunales-005.xlsx
+2024-12-17 07:01:15 - INFO - Procesando archivo 6/100: DatosGestionTribunales-006.xlsx
+2024-12-17 07:01:15 - INFO - Ejecutando algoritmos para DatosGestionTribunales-006.xlsx
+2024-12-17 07:02:01 - ERROR - Error ejecutando algoritmos: No se pudo generar una memoria inicial válida
+2024-12-17 07:02:48 - ERROR - Error procesando DatosGestionTribunales-006.xlsx: No se pudo generar una memoria inicial válida
+2024-12-17 07:02:48 - INFO - Procesando archivo 7/100: DatosGestionTribunales-007.xlsx
+2024-12-17 07:02:48 - INFO - Ejecutando algoritmos para DatosGestionTribunales-007.xlsx
+2024-12-17 07:04:52 - INFO - Procesamiento completado para DatosGestionTribunales-007.xlsx
+2024-12-17 07:04:52 - INFO - Procesando archivo 8/100: DatosGestionTribunales-008.xlsx
+2024-12-17 07:04:52 - INFO - Ejecutando algoritmos para DatosGestionTribunales-008.xlsx
+2024-12-17 07:07:08 - INFO - Procesamiento completado para DatosGestionTribunales-008.xlsx
+2024-12-17 07:07:08 - INFO - Procesando archivo 9/100: DatosGestionTribunales-009.xlsx
+2024-12-17 07:07:08 - INFO - Ejecutando algoritmos para DatosGestionTribunales-009.xlsx
+2024-12-17 07:09:40 - INFO - Procesamiento completado para DatosGestionTribunales-009.xlsx
+2024-12-17 07:09:40 - INFO - Procesando archivo 10/100: DatosGestionTribunales-010.xlsx
+2024-12-17 07:09:40 - INFO - Ejecutando algoritmos para DatosGestionTribunales-010.xlsx
+2024-12-17 07:13:39 - INFO - Procesamiento completado para DatosGestionTribunales-010.xlsx
+2024-12-17 07:13:39 - INFO - Procesando archivo 11/100: DatosGestionTribunales-011.xlsx
+2024-12-17 07:13:39 - INFO - Ejecutando algoritmos para DatosGestionTribunales-011.xlsx
+2024-12-17 07:17:38 - INFO - Procesamiento completado para DatosGestionTribunales-011.xlsx
+2024-12-17 07:17:38 - INFO - Procesando archivo 12/100: DatosGestionTribunales-012.xlsx
+2024-12-17 07:17:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-012.xlsx
+2024-12-17 07:20:27 - INFO - Procesamiento completado para DatosGestionTribunales-012.xlsx
+2024-12-17 07:20:27 - INFO - Procesando archivo 13/100: DatosGestionTribunales-013.xlsx
+2024-12-17 07:20:27 - INFO - Ejecutando algoritmos para DatosGestionTribunales-013.xlsx
+2024-12-17 07:21:37 - ERROR - Error ejecutando algoritmos: No se pudo generar una memoria inicial válida
+2024-12-17 07:22:50 - ERROR - Error procesando DatosGestionTribunales-013.xlsx: No se pudo generar una memoria inicial válida
+2024-12-17 07:22:50 - INFO - Procesando archivo 14/100: DatosGestionTribunales-014.xlsx
+2024-12-17 07:22:50 - INFO - Ejecutando algoritmos para DatosGestionTribunales-014.xlsx
+2024-12-17 07:25:13 - ERROR - Error procesando DatosGestionTribunales-014.xlsx: Cannot take a larger sample than population when 'replace=False'
+2024-12-17 07:25:13 - INFO - Procesando archivo 15/100: DatosGestionTribunales-015.xlsx
+2024-12-17 07:25:13 - INFO - Ejecutando algoritmos para DatosGestionTribunales-015.xlsx
+2024-12-17 07:38:02 - INFO - Procesamiento completado para DatosGestionTribunales-015.xlsx
+2024-12-17 07:38:02 - INFO - Procesando archivo 16/100: DatosGestionTribunales-016.xlsx
+2024-12-17 07:38:02 - INFO - Ejecutando algoritmos para DatosGestionTribunales-016.xlsx
+2024-12-17 07:55:10 - INFO - Procesamiento completado para DatosGestionTribunales-016.xlsx
+2024-12-17 07:55:10 - INFO - Procesando archivo 17/100: DatosGestionTribunales-017.xlsx
+2024-12-17 07:55:10 - INFO - Ejecutando algoritmos para DatosGestionTribunales-017.xlsx
+2024-12-17 08:09:38 - INFO - Procesamiento completado para DatosGestionTribunales-017.xlsx
+2024-12-17 08:09:38 - INFO - Procesando archivo 18/100: DatosGestionTribunales-018.xlsx
+2024-12-17 08:09:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-018.xlsx
+2024-12-17 08:23:24 - INFO - Procesamiento completado para DatosGestionTribunales-018.xlsx
+2024-12-17 08:23:24 - INFO - Procesando archivo 19/100: DatosGestionTribunales-019.xlsx
+2024-12-17 08:23:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-019.xlsx
+2024-12-17 08:41:07 - INFO - Procesamiento completado para DatosGestionTribunales-019.xlsx
+2024-12-17 08:41:07 - INFO - Procesando archivo 20/100: DatosGestionTribunales-020.xlsx
+2024-12-17 08:41:07 - INFO - Ejecutando algoritmos para DatosGestionTribunales-020.xlsx
+2024-12-17 08:58:26 - INFO - Procesamiento completado para DatosGestionTribunales-020.xlsx
+2024-12-17 08:58:26 - INFO - Procesando archivo 21/100: DatosGestionTribunales-021.xlsx
+2024-12-17 08:58:26 - INFO - Ejecutando algoritmos para DatosGestionTribunales-021.xlsx
+2024-12-17 09:08:44 - INFO - Procesamiento completado para DatosGestionTribunales-021.xlsx
+2024-12-17 09:08:44 - INFO - Procesando archivo 22/100: DatosGestionTribunales-022.xlsx
+2024-12-17 09:08:44 - INFO - Ejecutando algoritmos para DatosGestionTribunales-022.xlsx
+2024-12-17 09:16:21 - INFO - Procesamiento completado para DatosGestionTribunales-022.xlsx
+2024-12-17 09:16:21 - INFO - Procesando archivo 23/100: DatosGestionTribunales-023.xlsx
+2024-12-17 09:16:21 - INFO - Ejecutando algoritmos para DatosGestionTribunales-023.xlsx
+2024-12-17 09:49:24 - INFO - Procesamiento completado para DatosGestionTribunales-023.xlsx
+2024-12-17 09:49:24 - INFO - Procesando archivo 24/100: DatosGestionTribunales-024.xlsx
+2024-12-17 09:49:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-024.xlsx
+2024-12-17 10:30:05 - INFO - Procesamiento completado para DatosGestionTribunales-024.xlsx
+2024-12-17 10:30:05 - INFO - Procesando archivo 25/100: DatosGestionTribunales-025.xlsx
+2024-12-17 10:30:05 - INFO - Ejecutando algoritmos para DatosGestionTribunales-025.xlsx
+2024-12-17 11:05:22 - INFO - Procesamiento completado para DatosGestionTribunales-025.xlsx
+2024-12-17 11:05:22 - INFO - Procesando archivo 26/100: DatosGestionTribunales-026.xlsx
+2024-12-17 11:05:22 - INFO - Ejecutando algoritmos para DatosGestionTribunales-026.xlsx
+2024-12-17 11:44:14 - INFO - Procesamiento completado para DatosGestionTribunales-026.xlsx
+2024-12-17 11:44:14 - INFO - Procesando archivo 27/100: DatosGestionTribunales-027.xlsx
+2024-12-17 11:44:14 - INFO - Ejecutando algoritmos para DatosGestionTribunales-027.xlsx
+2024-12-17 12:12:38 - INFO - Procesamiento completado para DatosGestionTribunales-027.xlsx
+2024-12-17 12:12:38 - INFO - Procesando archivo 28/100: DatosGestionTribunales-028.xlsx
+2024-12-17 12:12:38 - INFO - Ejecutando algoritmos para DatosGestionTribunales-028.xlsx
+2024-12-17 12:44:30 - INFO - Procesamiento completado para DatosGestionTribunales-028.xlsx
+2024-12-17 12:44:30 - INFO - Procesando archivo 29/100: DatosGestionTribunales-029.xlsx
+2024-12-17 12:44:30 - INFO - Ejecutando algoritmos para DatosGestionTribunales-029.xlsx
+2024-12-17 13:02:52 - INFO - Procesamiento completado para DatosGestionTribunales-029.xlsx
+2024-12-17 13:02:52 - INFO - Procesando archivo 30/100: DatosGestionTribunales-030.xlsx
+2024-12-17 13:02:52 - INFO - Ejecutando algoritmos para DatosGestionTribunales-030.xlsx
+2024-12-17 13:07:57 - ERROR - Error ejecutando algoritmos: No se pudo generar una memoria inicial válida
+2024-12-17 13:13:03 - ERROR - Error procesando DatosGestionTribunales-030.xlsx: No se pudo generar una memoria inicial válida
+2024-12-17 13:13:03 - INFO - Procesando archivo 31/100: DatosGestionTribunales-031.xlsx
+2024-12-17 13:13:03 - INFO - Ejecutando algoritmos para DatosGestionTribunales-031.xlsx
+2024-12-17 14:02:58 - INFO - Procesamiento completado para DatosGestionTribunales-031.xlsx
+2024-12-17 14:02:58 - INFO - Procesando archivo 32/100: DatosGestionTribunales-032.xlsx
+2024-12-17 14:02:58 - INFO - Ejecutando algoritmos para DatosGestionTribunales-032.xlsx
+2024-12-17 15:00:07 - INFO - Procesamiento completado para DatosGestionTribunales-032.xlsx
+2024-12-17 15:00:07 - INFO - Procesando archivo 33/100: DatosGestionTribunales-033.xlsx
+2024-12-17 15:00:07 - INFO - Ejecutando algoritmos para DatosGestionTribunales-033.xlsx
+2024-12-17 16:20:31 - INFO - Procesamiento completado para DatosGestionTribunales-033.xlsx
+2024-12-17 16:20:31 - INFO - Procesando archivo 34/100: DatosGestionTribunales-034.xlsx
+2024-12-17 16:20:31 - INFO - Ejecutando algoritmos para DatosGestionTribunales-034.xlsx
+2024-12-17 17:24:16 - INFO - Procesamiento completado para DatosGestionTribunales-034.xlsx
+2024-12-17 17:24:16 - INFO - Procesando archivo 35/100: DatosGestionTribunales-035.xlsx
+2024-12-17 17:24:16 - INFO - Ejecutando algoritmos para DatosGestionTribunales-035.xlsx
+2024-12-17 18:18:51 - INFO - Procesamiento completado para DatosGestionTribunales-035.xlsx
+2024-12-17 18:18:51 - INFO - Procesando archivo 36/100: DatosGestionTribunales-036.xlsx
+2024-12-17 18:18:51 - INFO - Ejecutando algoritmos para DatosGestionTribunales-036.xlsx
+2024-12-17 20:26:35 - INFO - Procesamiento completado para DatosGestionTribunales-036.xlsx
+2024-12-17 20:26:35 - INFO - Procesando archivo 37/100: DatosGestionTribunales-037.xlsx
+2024-12-17 20:26:35 - INFO - Ejecutando algoritmos para DatosGestionTribunales-037.xlsx
+2024-12-17 22:17:48 - INFO - Procesamiento completado para DatosGestionTribunales-037.xlsx
+2024-12-17 22:17:48 - INFO - Procesando archivo 38/100: DatosGestionTribunales-038.xlsx
+2024-12-17 22:17:48 - INFO - Ejecutando algoritmos para DatosGestionTribunales-038.xlsx
